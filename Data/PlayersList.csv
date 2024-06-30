@@ -1,0 +1,30 @@
+player_id,player_name,jersey_number,position,country,player_image,,Rating
+3500,Granit Xhaka,34,Midfielder,Switzerland,https://api.sofascore.app/api/v1/player/117777/image,,7.49
+7044,Patrik Schick,14,Forward,Czech Republic,https://api.sofascore.app/api/v1/player/280609/image,,6.97
+8221,Jonathan Tah,4,Defender,Germany,https://api.sofascore.app/api/v1/player/227672/image,,7.17
+8667,Lukáš Hrádecký,1,Goalkeeper,Finland,https://api.sofascore.app/api/v1/player/15219/image,,7.04
+8804,Jonas Hofmann,7,Forward,Germany,https://api.sofascore.app/api/v1/player/142390/image,,7.47
+9195,Robert Andrich,8,Midfielder,Germany,https://api.sofascore.app/api/v1/player/168903/image,,7.2
+10336,Alejandro Grimaldo García,20,Midfielder,Spain,https://api.sofascore.app/api/v1/player/177177/image,,7.75
+27133,Odilon Kossonou,6,Defender,Côte d'Ivoire,https://api.sofascore.app/api/v1/player/973437/image,,7.08
+28268,Exequiel Alejandro Palacios,25,Midfielder,Argentina,https://api.sofascore.app/api/v1/player/822600/image,,7.6
+30606,Edmond Fayçal Tapsoba,12,Defender,Burkina Faso,https://api.sofascore.app/api/v1/player/883262/image,,7.16
+32289,Victor Okoh Boniface,22,Forward,Nigeria,https://api.sofascore.app/api/v1/player/978521/image,,7.36
+32712,Jeremie Frimpong,30,Midfielder,Netherlands,https://api.sofascore.app/api/v1/player/970361/image,,7.27
+33401,Amine Adli,21,Forward,Morocco,https://api.sofascore.app/api/v1/player/991478/image,,7.08
+38004,Piero Martín Hincapié Reyna,3,Defender,Ecuador,https://api.sofascore.app/api/v1/player/1002837/image,,7.12
+40724,Florian Wirtz,10,Forward,Germany,https://api.sofascore.app/api/v1/player/1019322/image,,7.63
+41411,Nathan Tella,19,Midfielder,Nigeria,https://api.sofascore.app/api/v1/player/920379/image,,6.95
+46046,Matěj Kovář,17,Goalkeeper,Czech Republic,https://api.sofascore.app/api/v1/player/927366/image,,7.5
+49337,Josip Stanišić,2,Defender,Croatia,https://api.sofascore.app/api/v1/player/927407/image,,7.2
+196651,Arthur Augusto de Matos Soares,13,Defender,Brazil,https://api.sofascore.app/api/v1/player/1174761/image,,7.08
+261630,Gustavo Adolfo Puerta Molano,32,Midfielder,Colombia,https://api.sofascore.app/api/v1/player/1174889/image,,6.77
+11391,Borja Iglesias Quintas,9,Forward,Spain,https://api.sofascore.app/api/v1/player/785989/image,,6.61
+28239,Adam Hložek,23,Forward,Czech Republic,https://api.sofascore.app/api/v1/player/963801/image,,6.87
+114833,Noah Mbamba,18,Defender,Belgium,https://api.sofascore.app/api/v1/player/1100321/image,,7.3
+3465,Timothy Evans Fosu-Mensah,24,Defender,Netherlands,https://api.sofascore.app/api/v1/player/795260/image,,
+12075,Niklas Lomb,36,Goalkeeper,Germany,https://api.sofascore.app/api/v1/player/142471/image,,
+8403,Nadiem Amiri,11,Midfielder,Germany,https://api.sofascore.app/api/v1/player/327755/image,,
+319930,Ken Eghosa Gideon Izekor,38,,Germany,,,
+335198,Francis-Ikechukwu Onyeka,40,,Germany,,,
+394479,Reno Münz,48,,Germany,,,

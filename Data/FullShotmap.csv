@@ -1,0 +1,917 @@
+id,match_id,minute,player,player_id,shot_body_part,shot_outcome,shot_statsbomb_xg,pass_goal_assist,team,team_id
+c577e730-b9f5-44f2-9257-9e7730c23d7b,3895302,6,Leonardo Bittencourt,8826.0,Right Foot,Blocked,0.056644168,,Werder Bremen,176
+bbc2c68d-c096-483d-abf4-32c0175a0f55,3895302,7,Piero Martín Hincapié Reyna,38004.0,Left Foot,Saved,0.14338115,,Bayer Leverkusen,904
+12b5206b-9ed0-4b1e-9ec3-f2028187e09f,3895302,11,Julián Malatini,51769.0,Left Foot,Blocked,0.038188405,,Werder Bremen,176
+b2c3d59d-3bef-4f8a-ad86-26b69940c64e,3895302,13,Jonathan Tah,8221.0,Head,Blocked,0.052781336,,Bayer Leverkusen,904
+bb53b537-1685-4019-9e8f-98f3805828eb,3895302,16,Granit Xhaka,3500.0,Left Foot,Blocked,0.021271583,,Bayer Leverkusen,904
+0247fb51-7bf7-4be6-82d7-bf63892bdd53,3895302,16,Jonathan Tah,8221.0,Head,Wayward,0.029664174,,Bayer Leverkusen,904
+b6b96d19-97e3-4770-996a-f20696123abe,3895302,18,Nick Woltemade,34870.0,Right Foot,Blocked,0.082292914,,Werder Bremen,176
+cf7357c9-3bd6-425f-ac34-ef7f11897394,3895302,24,Victor Okoh Boniface,32289.0,Right Foot,Goal,0.7835,,Bayer Leverkusen,904
+93d22a32-8221-4cab-9d68-d68f4b600599,3895302,27,Granit Xhaka,3500.0,Left Foot,Blocked,0.05010965,,Bayer Leverkusen,904
+5d2bf27b-dd07-4895-8744-1673b235fcec,3895302,28,Jonathan Tah,8221.0,Head,Saved,0.10991712,,Bayer Leverkusen,904
+7350b239-c1ab-44b2-9c25-0387553bd338,3895302,28,Victor Okoh Boniface,32289.0,Right Foot,Saved,0.323069,,Bayer Leverkusen,904
+be78c5ab-d396-4c44-8253-d48373ead6b3,3895302,34,Jonas Hofmann,8804.0,Right Foot,Blocked,0.09542403,,Bayer Leverkusen,904
+8cf6ed6f-59f8-455f-8930-f5b71f06c180,3895302,37,Amine Adli,33401.0,Left Foot,Post,0.07415738,,Bayer Leverkusen,904
+68ccb2b1-d605-4f46-a725-de0ab09acb96,3895302,43,Edmond Fayçal Tapsoba,30606.0,Head,Blocked,0.06755266,,Bayer Leverkusen,904
+964b0272-4e02-472a-b09f-0f0d384c5f1c,3895302,45,Mitchell Weiser,8576.0,Head,Saved,0.3757361,,Werder Bremen,176
+6db2523e-9343-461c-a8d6-b202470c1e0b,3895302,50,Leonardo Bittencourt,8826.0,Left Foot,Saved,0.048408102,,Werder Bremen,176
+df7d8278-f139-4102-9e6e-3c77d3d575c3,3895302,58,Florian Wirtz,40724.0,Right Foot,Off T,0.02420186,,Bayer Leverkusen,904
+96146263-06f4-4694-8e44-44658af8b8f5,3895302,59,Granit Xhaka,3500.0,Left Foot,Goal,0.031472735,,Bayer Leverkusen,904
+7b3398ab-6dae-42ec-8b11-0cd333d6b085,3895302,64,Florian Wirtz,40724.0,Right Foot,Blocked,0.07621976,,Bayer Leverkusen,904
+5085715b-09f6-403c-8b67-a546bcfed0ec,3895302,67,Florian Wirtz,40724.0,Right Foot,Goal,0.042012483,,Bayer Leverkusen,904
+ec3f4afc-df7d-4a53-98a2-508e21c040eb,3895302,70,Patrik Schick,7044.0,Left Foot,Saved,0.109270036,,Bayer Leverkusen,904
+0af7b077-170b-4ca3-a61f-4ecb4aba33d1,3895302,71,Jeremie Frimpong,32712.0,Right Foot,Saved,0.17347074,,Bayer Leverkusen,904
+856a63cb-2fbc-4a03-b3ab-c0b98f377391,3895302,74,Olivier Deman,24179.0,Left Foot,Saved,0.047987003,,Werder Bremen,176
+db15dcc2-36bb-4a82-b5ef-c15e68638ce9,3895302,74,Romano Schmid,8784.0,Right Foot,Off T,0.03447609,,Werder Bremen,176
+d6a308ca-0f8f-44d5-ad64-aa8870e489ce,3895302,80,Exequiel Alejandro Palacios,28268.0,Right Foot,Off T,0.06844198,,Bayer Leverkusen,904
+4a223f2d-3c3f-4655-b561-9c43a03b0f42,3895302,82,Florian Wirtz,40724.0,Right Foot,Goal,0.43832713,,Bayer Leverkusen,904
+dcc0c591-7ebd-4e42-8206-04bfefa94f33,3895302,89,Florian Wirtz,40724.0,Right Foot,Goal,0.28999847,,Bayer Leverkusen,904
+452ac1fc-6e97-459f-8819-62bc82078292,3895292,2,Borja Iglesias Quintas,11391.0,Right Foot,Off T,0.084877156,,Bayer Leverkusen,904
+345c34d9-2c2f-4cec-860e-3b3704ebc4f3,3895292,5,Granit Xhaka,3500.0,Right Foot,Blocked,0.0423987,,Bayer Leverkusen,904
+6627cd42-a35b-4e4e-9fd3-05d3269bca36,3895292,6,Adam Hložek,28239.0,Right Foot,Blocked,0.017574478,,Bayer Leverkusen,904
+3d1c53e1-4b07-4648-806c-2dc0b2ee5347,3895292,10,Alejandro Grimaldo García,10336.0,Left Foot,Saved,0.075614184,,Bayer Leverkusen,904
+bcdb8320-5e4f-4c64-910a-f4ff7ace5e8b,3895292,14,Borja Iglesias Quintas,11391.0,Head,Saved,0.11838936,,Bayer Leverkusen,904
+e8d3770b-03dd-4a04-b39d-36e92279706b,3895292,27,Alejandro Grimaldo García,10336.0,Right Foot,Off T,0.11909147,,Bayer Leverkusen,904
+8cdde037-021b-4025-bd4b-e2aacb438348,3895292,30,Rani Khedira,9402.0,Left Foot,Blocked,0.048803795,,Union Berlin,190
+2abb64b5-0dc3-4232-b9dd-6b8c90a4e0c2,3895292,35,Robin Gosens,6985.0,Head,Off T,0.061352093,,Union Berlin,190
+935e22db-fc36-4f7d-80de-91ae9a498112,3895292,37,Piero Martín Hincapié Reyna,38004.0,Head,Blocked,0.047790155,,Bayer Leverkusen,904
+86664fda-a774-47a6-a129-60f81481d7e0,3895292,38,Yorbe Vertessen,32537.0,Right Foot,Off T,0.08249883,,Union Berlin,190
+d27222fa-f94e-4c78-9dcb-481abe654c5e,3895292,42,Robert Andrich,9195.0,Right Foot,Saved,0.024627369,,Bayer Leverkusen,904
+0b766590-dff1-4670-baae-b960fab33f6d,3895292,48,Florian Wirtz,40724.0,Right Foot,Blocked,0.058214318,,Bayer Leverkusen,904
+3b2ebed6-0c37-4fb7-aef4-62a03d6244b9,3895292,48,Robert Andrich,9195.0,Left Foot,Blocked,0.07385045,,Bayer Leverkusen,904
+4727fe03-748c-4003-932c-08089fce4903,3895292,48,Piero Martín Hincapié Reyna,38004.0,Left Foot,Blocked,0.11288635,,Bayer Leverkusen,904
+f5dea30a-5df6-4639-94dd-8319d9c8b256,3895292,52,Florian Wirtz,40724.0,Right Foot,Goal,0.7835,,Bayer Leverkusen,904
+cc22cb9b-7162-499c-bcbb-ada646e7321e,3895292,51,Nathan Tella,41411.0,Left Foot,Blocked,0.04973654,,Bayer Leverkusen,904
+3cdbe5fe-001b-4f43-9f45-e0f05991454e,3895292,53,András Schäfer,42822.0,Right Foot,Blocked,0.02534401,,Union Berlin,190
+7b0a71e0-997f-4128-82fe-bc896f6c3b93,3895292,58,Amine Adli,33401.0,Left Foot,Saved,0.15474533,,Bayer Leverkusen,904
+020286f7-259d-4f4e-91a6-e1a361609c4a,3895292,59,Jonathan Tah,8221.0,Head,Wayward,0.066974714,,Bayer Leverkusen,904
+0b8212d5-8835-4f2e-84a5-bef98500a363,3895292,65,Alex Král,23452.0,Left Foot,Off T,0.03212382,,Union Berlin,190
+db21527d-2460-46c2-a63f-1a08b143f752,3895292,74,Alex Král,23452.0,Head,Wayward,0.0149242785,,Union Berlin,190
+020d62c6-44da-4187-b187-80ef2d57b0af,3895292,76,Nathan Tella,41411.0,Left Foot,Saved,0.16930944,,Bayer Leverkusen,904
+c74e5bef-c843-4fc1-a208-4d541a1527d9,3895292,80,Diogo Filipe Monteiro Pinto Leite,11175.0,Head,Off T,0.07846915,,Union Berlin,190
+c30b8aae-d325-46cd-9027-63daceb5b4c1,3895292,81,Jeremie Frimpong,32712.0,Head,Wayward,0.12810047,,Bayer Leverkusen,904
+5332b262-7816-452d-a1fd-7b48af8459ff,3895292,90,Alejandro Grimaldo García,10336.0,Left Foot,Saved,0.028277397,,Bayer Leverkusen,904
+a7a418f1-0d37-4eb5-8eef-90e603714ba9,3895292,93,Jeremie Frimpong,32712.0,Left Foot,Blocked,0.055857755,,Bayer Leverkusen,904
+2fda9d56-0749-4c28-8423-7c45bdab5d5c,3895292,94,Amine Adli,33401.0,Left Foot,Saved,0.35172737,,Bayer Leverkusen,904
+c3a4727b-6d86-435c-83f0-477c0db229da,3895292,96,Frederik Rønnow,12420.0,Head,Blocked,0.14906467,,Union Berlin,190
+c4a4f260-38de-42ae-858e-dbc9a4f03afb,3895292,96,Frederik Rønnow,12420.0,Head,Wayward,0.05250199,,Union Berlin,190
+fc8518e0-5403-4e24-b29d-9c6aa0c4572e,3895333,9,Granit Xhaka,3500.0,Left Foot,Blocked,0.024850486,,Bayer Leverkusen,904
+0d2470c8-1544-4fcf-a8b8-a4aa1a6b6371,3895333,11,Granit Xhaka,3500.0,Left Foot,Goal,0.032375105,,Bayer Leverkusen,904
+158520be-290c-420c-a39c-1cb03429d959,3895333,20,Exequiel Alejandro Palacios,28268.0,Right Foot,Blocked,0.19429411,,Bayer Leverkusen,904
+528a780c-3ccd-45a7-8bf9-a951a832c07f,3895333,29,Jonas Hofmann,8804.0,Right Foot,Saved,0.040702738,,Bayer Leverkusen,904
+a70ba2bf-4bb6-4d06-9398-d18c71d44d25,3895333,31,Hugo Ekitike,50429.0,Head,Goal,0.13593885,,Eintracht Frankfurt,184
+39aed532-7f13-4179-b0f8-1f78fa5b93ec,3895333,39,Omar Marmoush,40761.0,Right Foot,Saved,0.017500963,,Eintracht Frankfurt,184
+77629cca-208c-45e8-87a8-37fc2846ea5c,3895333,40,Fares Chaïbi,217047.0,Left Foot,Off T,0.02228884,,Eintracht Frankfurt,184
+0eb21787-dd7e-4ef7-a943-8a60f85fbb53,3895333,41,Jonas Hofmann,8804.0,Right Foot,Blocked,0.05227081,,Bayer Leverkusen,904
+1ea217d8-dbc7-41f5-98f3-799be4c48e97,3895333,41,Omar Marmoush,40761.0,Right Foot,Off T,0.36661395,,Eintracht Frankfurt,184
+693cddac-5b0c-469f-8c78-f2add46315b9,3895333,43,Patrik Schick,7044.0,Head,Goal,0.19578177,,Bayer Leverkusen,904
+731eec99-2ea3-46f6-8f2d-650887aa046a,3895333,45,Omar Marmoush,40761.0,Right Foot,Off T,0.021870451,,Eintracht Frankfurt,184
+2ab5fb77-fab8-4dd9-9cbb-3310e3146d6a,3895333,46,Hugo Ekitike,50429.0,Left Foot,Wayward,0.0918847,,Eintracht Frankfurt,184
+7028fc56-e4bc-4fcd-a68a-60abe0bb2421,3895333,46,Fares Chaïbi,217047.0,Right Foot,Off T,0.13472325,,Eintracht Frankfurt,184
+82853bfd-ad2a-4d3a-9111-d26c50747d18,3895333,57,Exequiel Alejandro Palacios,28268.0,Right Foot,Goal,0.7835,,Bayer Leverkusen,904
+c50dc871-b61c-40b3-8633-a62456629d9c,3895333,59,Mario Götze,8227.0,Right Foot,Blocked,0.055923518,,Eintracht Frankfurt,184
+4b5d7645-b245-4a03-959e-b39ff6490c36,3895333,59,Omar Marmoush,40761.0,Head,Off T,0.051184546,,Eintracht Frankfurt,184
+57c1ff7c-7281-4448-a230-88e7239cf5e2,3895333,61,Hugo Ekitike,50429.0,Left Foot,Blocked,0.038133413,,Eintracht Frankfurt,184
+94bed89f-35c3-4615-a773-c22b57e350f6,3895333,68,Eric Junior Dina Ebimbe,28346.0,Right Foot,Wayward,0.04776066,,Eintracht Frankfurt,184
+81eafc87-3889-4c0c-9de1-086dd0f07ede,3895333,70,Fares Chaïbi,217047.0,Right Foot,Saved,0.009964063,,Eintracht Frankfurt,184
+69ed298b-324f-4574-b12c-85d3d021b777,3895333,74,Fares Chaïbi,217047.0,Right Foot,Saved,0.039118815,,Eintracht Frankfurt,184
+2d134930-fab3-4cbf-822c-4e87d0fca66b,3895333,76,Jeremie Frimpong,32712.0,Right Foot,Goal,0.47853372,,Bayer Leverkusen,904
+ae1137c3-4ad0-4378-9954-cac291e48d39,3895333,81,Mario Götze,8227.0,Right Foot,Blocked,0.039151978,,Eintracht Frankfurt,184
+b307c69b-cea2-4252-b48e-5a87f0ce1fbf,3895333,82,Ansgar Knauff,39070.0,Right Foot,Blocked,0.105557114,,Eintracht Frankfurt,184
+afa25fb0-8ce7-430c-8995-81b9b2ef5dff,3895333,84,Ignacio Ferri Julià,314766.0,Right Foot,Blocked,0.047907706,,Eintracht Frankfurt,184
+42e736cd-e443-43b7-a8e5-aa1bc7ecd199,3895333,88,Victor Okoh Boniface,32289.0,Right Foot,Goal,0.7835,,Bayer Leverkusen,904
+fbf83c74-836a-4bda-85ca-5158be7e590f,3895333,92,Ignacio Ferri Julià,314766.0,Right Foot,Saved,0.21601155,,Eintracht Frankfurt,184
+2a8aeb85-d278-4fc3-a3ab-f9d92e57cdc4,3895340,10,Philipp Hofmann,28603.0,Head,Off T,0.12386223,,Bochum,868
+29922617-eb58-413f-8c29-e13c78f199f6,3895340,15,Robert Andrich,9195.0,Right Foot,Blocked,0.07194631,,Bayer Leverkusen,904
+d2360c7b-f93a-43b2-ac0c-67c81e228c60,3895340,22,Patrik Schick,7044.0,Head,Off T,0.041582808,,Bayer Leverkusen,904
+f965804b-15bf-4b4b-963c-179b80ec14fc,3895340,28,Edmond Fayçal Tapsoba,30606.0,Left Foot,Blocked,0.03004243,,Bayer Leverkusen,904
+06131845-bb90-4cb5-955f-c8454fa8dc7f,3895340,29,Granit Xhaka,3500.0,Left Foot,Post,0.025478274,,Bayer Leverkusen,904
+f641856a-9f83-4efa-8642-82ba8958b79e,3895340,35,Victor Okoh Boniface,32289.0,Head,Off T,0.06597038,,Bayer Leverkusen,904
+2e430d3e-2741-4d49-9e80-8963abb4d73f,3895340,37,Victor Okoh Boniface,32289.0,Head,Wayward,0.053766534,,Bayer Leverkusen,904
+a255cf1e-f73e-434f-a910-58360bd4aa60,3895340,39,Odilon Kossonou,27133.0,Right Foot,Off T,0.023349753,,Bayer Leverkusen,904
+7c2798b0-6986-4566-86ce-0a351c33986c,3895340,40,Patrik Schick,7044.0,Left Foot,Goal,0.043790568,,Bayer Leverkusen,904
+bbe92ecc-45d8-4ffc-817b-444112682107,3895340,46,Victor Okoh Boniface,32289.0,Right Foot,Goal,0.7835,,Bayer Leverkusen,904
+5bf94991-d33b-4fad-9c75-5acad6f58186,3895340,48,Granit Xhaka,3500.0,Left Foot,Blocked,0.0272795,,Bayer Leverkusen,904
+eefe3d33-edae-4a15-ba89-93b9220cf6ad,3895340,49,Patrik Schick,7044.0,Left Foot,Saved,0.118455246,,Bayer Leverkusen,904
+ce657a2c-9ba5-402a-adfa-181697e21398,3895340,57,Patrik Schick,7044.0,Left Foot,Blocked,0.03879495,,Bayer Leverkusen,904
+0c2d4394-e3af-4962-ab84-10019b18cf0a,3895340,58,Victor Okoh Boniface,32289.0,Left Foot,Post,0.1731522,,Bayer Leverkusen,904
+1db40d70-c219-4fa8-adb6-4d38f9ac5896,3895340,60,Kevin Stöger,12303.0,Right Foot,Off T,0.038659126,,Bochum,868
+e8090304-80b2-4652-8526-18230ab1e570,3895340,63,Robert Andrich,9195.0,Right Foot,Off T,0.02513808,,Bayer Leverkusen,904
+1e542229-14f8-47d2-8518-8d9df91bb648,3895340,66,Patrik Schick,7044.0,Right Foot,Off T,0.13727601,,Bayer Leverkusen,904
+3ec93bf2-b917-41a5-8f35-30cb38030f41,3895340,70,Granit Xhaka,3500.0,Left Foot,Saved,0.09135022,,Bayer Leverkusen,904
+25786fda-271d-4b59-bef6-8f1deac2c6e2,3895340,70,Amine Adli,33401.0,Left Foot,Blocked,0.17022909,,Bayer Leverkusen,904
+89e309f2-cdfb-4689-9238-6498f89c5eca,3895340,72,Matúš Bero,15546.0,Head,Blocked,0.15157913,,Bochum,868
+565ac75c-7e83-4b34-8a21-a8d666bb01fc,3895340,74,Amine Adli,33401.0,Left Foot,Saved,0.17184962,,Bayer Leverkusen,904
+20bba541-c700-43c1-a3f8-7d319a0f1117,3895340,75,Amine Adli,33401.0,Head,Goal,0.17732605,,Bayer Leverkusen,904
+8f96e0d2-d438-4876-8dfd-705f90195bb2,3895340,77,Jonas Hofmann,8804.0,Left Foot,Blocked,0.106995605,,Bayer Leverkusen,904
+a521ce17-5ba0-48bb-9d9d-afd16d56c56d,3895340,77,Edmond Fayçal Tapsoba,30606.0,Left Foot,Blocked,0.146875,,Bayer Leverkusen,904
+8ea7b514-e99d-4798-851c-f5d63a9edb28,3895340,82,Jonas Hofmann,8804.0,Right Foot,Saved,0.5318175,,Bayer Leverkusen,904
+7bcae1d1-291c-498f-9d59-f8451f440802,3895340,84,Arthur Augusto de Matos Soares,196651.0,Right Foot,Off T,0.010973065,,Bayer Leverkusen,904
+059486c5-891d-40fd-9463-4f835874429d,3895340,85,Josip Stanišić,49337.0,Right Foot,Goal,0.043656476,,Bayer Leverkusen,904
+fc692a29-81a6-4eeb-aaa3-d5322a575fd7,3895340,87,Amine Adli,33401.0,Left Foot,Saved,0.25447637,,Bayer Leverkusen,904
+82b24884-2601-40a1-a016-15c876f6ddbc,3895340,88,Gustavo Adolfo Puerta Molano,261630.0,Right Foot,Off T,0.020731112,,Bayer Leverkusen,904
+331e552a-bf38-4977-b87c-2bbb1b281c62,3895340,90,Jonathan Tah,8221.0,Right Foot,Off T,0.025919521,,Bayer Leverkusen,904
+ae9a38af-5ca6-4bbc-9a85-34d4e9aa0e89,3895340,92,Alejandro Grimaldo García,10336.0,Right Foot,Goal,0.86161053,,Bayer Leverkusen,904
+1d26f4b1-0022-479a-a209-a8b714cd6f1c,3895340,93,Amine Adli,33401.0,Left Foot,Off T,0.028328221,,Bayer Leverkusen,904
+972eb987-0c5a-4c1e-92eb-be61658b0ba1,3895348,11,Victor Okoh Boniface,32289.0,Right Foot,Goal,0.74691355,,Bayer Leverkusen,904
+2d471cca-8bdc-4204-aa82-59d0fae5bd21,3895348,15,Victor Okoh Boniface,32289.0,Left Foot,Wayward,0.060549814,,Bayer Leverkusen,904
+2196b3ef-b7f7-421d-b71e-8f15b9cd1fa9,3895348,24,Jonas Hofmann,8804.0,Right Foot,Saved,0.029768612,,Bayer Leverkusen,904
+18fe5d98-8cd1-4a43-bd34-f5a73f46d7ac,3895348,26,Jonathan Tah,8221.0,Right Foot,Wayward,0.05129539,,Bayer Leverkusen,904
+30004327-97f1-4663-b1b5-26e6642c267e,3895348,26,Robert Andrich,9195.0,Right Foot,Goal,0.3140029,,Bayer Leverkusen,904
+0b9095e8-2d4d-4598-b93a-914c0cf13c0e,3895348,31,Ermedin Demirović,6874.0,Left Foot,Blocked,0.089570336,,Augsburg,172
+1a098688-b1a3-47b6-af2a-eaf9ae0232a8,3895348,41,Ermedin Demirović,6874.0,Right Foot,Off T,0.029972166,,Augsburg,172
+1a0525aa-6f44-477f-9d03-004323383d18,3895348,42,Robert Andrich,9195.0,Left Foot,Off T,0.030300789,,Bayer Leverkusen,904
+d9db8479-915f-4b45-91f7-b12293f8f980,3895348,43,Ermedin Demirović,6874.0,Right Foot,Wayward,0.09740256,,Augsburg,172
+a29371aa-73b8-4391-a2b6-5d35039cae0c,3895348,46,Jeremie Frimpong,32712.0,Left Foot,Blocked,0.081525005,,Bayer Leverkusen,904
+4880c409-6ee0-4a5f-93d2-97cb9a00bbcd,3895348,47,Jonas Hofmann,8804.0,Right Foot,Saved,0.07502105,,Bayer Leverkusen,904
+d24b2b24-be3c-4bbf-be20-c0574500ead9,3895348,52,Jonas Hofmann,8804.0,Right Foot,Off T,0.024325714,,Bayer Leverkusen,904
+2170a298-e3d5-4f41-a2a4-cf97beb1934b,3895348,54,Amine Adli,33401.0,Left Foot,Saved,0.058906764,,Bayer Leverkusen,904
+d5152012-bcd6-4093-b1f9-d4fe2de2c20c,3895348,56,Arne Engels,40167.0,Right Foot,Blocked,0.082670294,,Augsburg,172
+5b55c7d1-27fb-4e89-a593-17b78f2cde49,3895348,57,Niklas Dorsch,9198.0,Right Foot,Off T,0.034268443,,Augsburg,172
+027ec70a-6216-446a-9ade-ebc83a907f44,3895348,60,Ermedin Demirović,6874.0,Right Foot,Off T,0.009191809,,Augsburg,172
+0794b5b9-8756-4f0a-9f51-67ef3370f85d,3895348,61,Mert Kömür,316237.0,Right Foot,Goal,0.10435216,,Augsburg,172
+99ea0fdd-96bd-4078-b8a2-c44466e8eea6,3895348,64,Patrik Schick,7044.0,Left Foot,Blocked,0.061452772,,Bayer Leverkusen,904
+8d69492c-d4ff-4d14-97d2-4c00ebad6ada,3895348,65,Patrik Schick,7044.0,Left Foot,Off T,0.16914494,,Bayer Leverkusen,904
+32a9efdb-5333-4be1-86a7-a03c1bf28c40,3895348,68,Jonas Hofmann,8804.0,Right Foot,Blocked,0.0637409,,Bayer Leverkusen,904
+4ed55466-f1dc-420a-8e59-5e9c6624113d,3895348,71,Robert Andrich,9195.0,Left Foot,Saved,0.05477327,,Bayer Leverkusen,904
+24975a3f-1c57-4475-9149-57d99cd2be53,3895348,71,Florian Wirtz,40724.0,Right Foot,Blocked,0.061963774,,Bayer Leverkusen,904
+f16d5f02-3eb9-4e19-8816-8bbab748f358,3895348,72,Granit Xhaka,3500.0,Right Foot,Saved,0.060702946,,Bayer Leverkusen,904
+410ea059-c7ab-46f2-b62a-dcebbba012ea,3895348,78,Iago Amaral Borduchi,25118.0,Right Foot,Blocked,0.046394035,,Augsburg,172
+7c130511-2c45-4085-82ba-fd16dd240bc0,3895348,79,Pep Biel Mas Jaume,24319.0,Left Foot,Saved,0.1950215,,Augsburg,172
+a5c5a158-167f-4541-a86f-ec5374736ec8,3895348,83,Florian Wirtz,40724.0,Right Foot,Off T,0.030079998,,Bayer Leverkusen,904
+ac5b5b80-fd68-4ddb-a1fc-57e93db2f9ce,3895348,86,Pep Biel Mas Jaume,24319.0,Left Foot,Off T,0.091488466,,Augsburg,172
+4cb3184a-f70b-4c7c-aad7-e105370c2c3c,3895348,87,Florian Wirtz,40724.0,Right Foot,Saved,0.107969604,,Bayer Leverkusen,904
+d2aee838-eab9-477b-aabd-091a3ef2ce12,3895348,88,Robert Andrich,9195.0,Right Foot,Blocked,0.05046559,,Bayer Leverkusen,904
+b080ad0f-dba1-4cad-a0a5-3a80d004e136,3895348,89,Granit Xhaka,3500.0,Right Foot,Blocked,0.032017022,,Bayer Leverkusen,904
+dc8782f0-fbfc-41b6-947c-59fd533c0c65,3895286,5,Jonas Hofmann,8804.0,Right Foot,Blocked,0.040825125,,Bayer Leverkusen,904
+ddc83fa0-fb65-4d37-8d38-e59b9dfb7d21,3895286,10,Granit Xhaka,3500.0,Left Foot,Saved,0.12005351,,Bayer Leverkusen,904
+44f191cc-5862-4181-b9ce-fa5909f30379,3895286,16,Granit Xhaka,3500.0,Left Foot,Blocked,0.026810719,,Bayer Leverkusen,904
+7880f03f-39e3-42d7-8e08-93b528d444f4,3895286,17,Florian Wirtz,40724.0,Right Foot,Off T,0.038797267,,Bayer Leverkusen,904
+c2f395d9-3c92-4154-a54d-66e551eb8171,3895286,19,Jonas Hofmann,8804.0,Right Foot,Blocked,0.009383234,,Bayer Leverkusen,904
+edc5167c-f354-4b6b-bef7-6bdcdab9edbb,3895286,32,Maximilian Beier,35242.0,Right Foot,Goal,0.32207248,,Hoffenheim,175
+b22a05bb-7bca-4d40-b51c-63dec8015de7,3895286,35,Granit Xhaka,3500.0,Left Foot,Blocked,0.018815912,,Bayer Leverkusen,904
+72005dd9-34eb-4c21-88ba-32eb1ac83b7c,3895286,39,Andrej Kramarić,5460.0,Left Foot,Saved,0.12478229,,Hoffenheim,175
+ea820bf5-a4f6-4791-9d06-43cb8d82096f,3895286,40,Jonas Hofmann,8804.0,Right Foot,Blocked,0.03323577,,Bayer Leverkusen,904
+2044ddc0-90d9-48cd-bfcf-e8d225c3e44b,3895286,41,Granit Xhaka,3500.0,Left Foot,Saved,0.008555494,,Bayer Leverkusen,904
+4862a042-0d22-4607-9ad3-6b15790c4b9f,3895286,42,Wout Weghorst,7829.0,Left Foot,Off T,0.05932622,,Hoffenheim,175
+501acb6c-0849-4bed-912e-ab4610b5b579,3895286,43,Jonas Hofmann,8804.0,Right Foot,Saved,0.12434759,,Bayer Leverkusen,904
+5907be90-aea6-47af-be13-2a0597a27cde,3895286,46,Jonas Hofmann,8804.0,Right Foot,Blocked,0.21259329,,Bayer Leverkusen,904
+e00bdae8-f038-4591-abb4-cb5475b59639,3895286,46,Robert Andrich,9195.0,Head,Off T,0.094437055,,Bayer Leverkusen,904
+55523bd5-457e-45ea-b830-03f6f4283e1c,3895286,47,Maximilian Beier,35242.0,Right Foot,Blocked,0.023318673,,Hoffenheim,175
+ffc38f11-baa3-4c0f-a295-9d1ba06218a8,3895286,49,Jonas Hofmann,8804.0,Right Foot,Blocked,0.026392784,,Bayer Leverkusen,904
+9f87daa3-46c6-4c28-989d-3118a5696f2e,3895286,51,Piero Martín Hincapié Reyna,38004.0,Head,Saved,0.057205044,,Bayer Leverkusen,904
+ead90328-cf19-4c93-862e-477bba4ecfeb,3895286,53,Florian Wirtz,40724.0,Right Foot,Saved,0.036589272,,Bayer Leverkusen,904
+b28c5ef8-249c-4de7-9b27-46095fac61e0,3895286,54,Jonathan Tah,8221.0,Head,Off T,0.06923281,,Bayer Leverkusen,904
+45875581-d54b-435c-a4c2-ed98908163de,3895286,57,Alejandro Grimaldo García,10336.0,Left Foot,Saved,0.022225993,,Bayer Leverkusen,904
+df52230a-bb32-4471-8d04-4ed9604296ca,3895286,62,Jeremie Frimpong,32712.0,Left Foot,Blocked,0.0627306,,Bayer Leverkusen,904
+802a3444-d774-4df6-9d30-4252646f7c5a,3895286,63,Amine Adli,33401.0,Left Foot,Blocked,0.033214908,,Bayer Leverkusen,904
+98e4b110-93f1-4384-9419-ae1179cd7e83,3895286,64,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.044617523,,Bayer Leverkusen,904
+3d54ac87-8383-4cf9-b7f6-17e43e7cf0b6,3895286,66,Anton Stach,48644.0,Right Foot,Blocked,0.030083178,,Hoffenheim,175
+203fa3c1-0671-4214-a546-d95489164a58,3895286,69,Alejandro Grimaldo García,10336.0,Left Foot,Saved,0.020587955,,Bayer Leverkusen,904
+62b6d3db-4b64-44cd-8d42-6c0638df57aa,3895286,70,Jeremie Frimpong,32712.0,Left Foot,Blocked,0.14081118,,Bayer Leverkusen,904
+0c7a857c-a2df-4c95-bac3-532f76c9dd0a,3895286,73,Patrik Schick,7044.0,Left Foot,Off T,0.14845592,,Bayer Leverkusen,904
+c372969f-941d-48c3-9d22-131aa2540e33,3895286,75,Patrik Schick,7044.0,Left Foot,Saved,0.06357389,,Bayer Leverkusen,904
+3f0a202d-43cc-421c-a97a-99d463fdfb94,3895286,75,Amine Adli,33401.0,Left Foot,Saved,0.09254166,,Bayer Leverkusen,904
+d556aae7-7647-4c27-8aa4-f5ccbd034b09,3895286,75,Robert Andrich,9195.0,Right Foot,Off T,0.060281254,,Bayer Leverkusen,904
+55fad6f6-64d5-4bac-9d5b-a5e542384626,3895286,78,Jeremie Frimpong,32712.0,Left Foot,Blocked,0.05691846,,Bayer Leverkusen,904
+8cc67067-433f-47e4-a1b0-8e0f4fc89d61,3895286,78,Jonathan Tah,8221.0,Right Foot,Blocked,0.02269635,,Bayer Leverkusen,904
+c7644e95-abfb-4c29-af4e-26b62c5bc212,3895286,80,Grischa Prömel,9159.0,Left Foot,Blocked,0.08963502,,Hoffenheim,175
+6f5928b5-bad3-4014-98d6-006ba88865ae,3895286,81,Patrik Schick,7044.0,Left Foot,Off T,0.047049444,,Bayer Leverkusen,904
+1fcd33a5-438c-48ea-9403-94882983b76d,3895286,82,Patrik Schick,7044.0,Left Foot,Wayward,0.08243443,,Bayer Leverkusen,904
+9565503f-ea3e-4924-94d6-4921a4135e28,3895286,86,Borja Iglesias Quintas,11391.0,Right Foot,Post,0.13514416,,Bayer Leverkusen,904
+eabde875-fb9a-4f5e-8c5e-887f3a596247,3895286,87,Florian Wirtz,40724.0,Right Foot,Blocked,0.053672522,,Bayer Leverkusen,904
+70c88f35-d9b6-45a9-84b5-983ec4edb695,3895286,87,Robert Andrich,9195.0,Right Foot,Goal,0.1300591,,Bayer Leverkusen,904
+326beb2b-4f8c-4cab-b607-7a96334c31a9,3895286,88,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.041741293,,Bayer Leverkusen,904
+8934c30c-872b-4f0e-bd44-6b0a16933c9f,3895286,90,Patrik Schick,7044.0,Left Foot,Goal,0.5939515,,Bayer Leverkusen,904
+e128f2ad-a770-4804-9c04-684fd5dcbdd9,3895220,0,Gerrit Holtmann,12629.0,Left Foot,Off T,0.008671612,,Darmstadt 98,872
+d7cb80a9-1cf1-43d3-b140-a31ac0ff4389,3895220,15,Adam Hložek,28239.0,Left Foot,Off T,0.10161012,,Bayer Leverkusen,904
+d79d031b-54ec-4e6e-bd2a-83dbd6dd838b,3895220,17,Nathan Tella,41411.0,Right Foot,Blocked,0.027469864,,Bayer Leverkusen,904
+a551a391-de6e-4909-a364-f2016a70e391,3895220,19,Christoph Zimmermann,11814.0,Head,Saved,0.0377309,,Darmstadt 98,872
+4e9aad87-7fb7-4cc3-b26f-43889ed8e08a,3895220,23,Luca Pfeiffer,48655.0,Right Foot,Saved,0.09451387,,Darmstadt 98,872
+7598f02d-2a2b-4a56-b649-2f4d142616ab,3895220,24,Robert Andrich,9195.0,Right Foot,Blocked,0.02738129,,Bayer Leverkusen,904
+ff7dc4c8-6462-4f11-b42e-e07385fa05c8,3895220,27,Luca Pfeiffer,48655.0,Right Foot,Wayward,0.059958536,,Darmstadt 98,872
+9940ed51-5d88-42b9-b00f-a10c0e76a6b0,3895220,27,Oscar Vilhelmsson,42543.0,Right Foot,Saved,0.36120272,,Darmstadt 98,872
+2c1d7ae5-7b3c-49c8-9b24-086c1d623a20,3895220,31,Piero Martín Hincapié Reyna,38004.0,Left Foot,Saved,0.043250825,,Bayer Leverkusen,904
+dad539ba-e148-461c-984c-c2c06a3c07ab,3895220,32,Nathan Tella,41411.0,Head,Goal,0.11852788,,Bayer Leverkusen,904
+cdb3207c-fed7-4f5f-8137-1cca6085c621,3895220,38,Emir Karic,8606.0,Head,Saved,0.12253083,,Darmstadt 98,872
+ca6a0a11-729a-45f3-91fc-8f6e2f586e55,3895220,40,Borja Iglesias Quintas,11391.0,Right Foot,Saved,0.5136909,,Bayer Leverkusen,904
+b928aa67-463b-43f9-8075-c75fb8cc2be9,3895220,41,Robert Andrich,9195.0,Right Foot,Saved,0.119595446,,Bayer Leverkusen,904
+10f729fd-dcd5-4aa5-858a-79b9332ae499,3895220,42,Josip Stanišić,49337.0,Head,Blocked,0.052361153,,Bayer Leverkusen,904
+56656dde-9b48-409f-bf1d-c7ca17d1e4fe,3895220,42,Adam Hložek,28239.0,Left Foot,Off T,0.0524147,,Bayer Leverkusen,904
+ad5e6c9f-e35e-4405-8ef1-9b749cf1d9a1,3895220,44,Florian Wirtz,40724.0,Right Foot,Saved,0.1190427,,Bayer Leverkusen,904
+c1b344ff-ce62-4433-b2ac-6134b43531a5,3895220,45,Luca Pfeiffer,48655.0,Right Foot,Saved,0.07312955,,Darmstadt 98,872
+1bcb16a6-d77b-4121-bdb7-98169432365c,3895220,49,Jonathan Tah,8221.0,Head,Blocked,0.08595843,,Bayer Leverkusen,904
+e3095912-e405-4239-9c9d-dd3e26379003,3895220,51,Nathan Tella,41411.0,Right Foot,Goal,0.10756206,,Bayer Leverkusen,904
+26c0998d-3be1-4c67-9ab1-7f49516a6640,3895220,58,Nathan Tella,41411.0,Left Foot,Blocked,0.052544177,,Bayer Leverkusen,904
+6bf60a52-7b42-4377-b1b0-64c76dac8130,3895220,62,Borja Iglesias Quintas,11391.0,Right Foot,Blocked,0.04449064,,Bayer Leverkusen,904
+306af0a0-2adc-41f4-94a0-4550fd1c3fba,3895220,64,Josip Stanišić,49337.0,Right Foot,Blocked,0.030646805,,Bayer Leverkusen,904
+8c35f1bd-dabd-482f-96d5-8f656b974641,3895220,65,Nathan Tella,41411.0,Right Foot,Off T,0.005163977,,Bayer Leverkusen,904
+58dee723-be6c-4a27-b670-2d3d82a565fa,3895220,72,Adam Hložek,28239.0,Right Foot,Blocked,0.10973638,,Bayer Leverkusen,904
+c71f1d13-c57b-4c85-971b-e66b3fa7839d,3895220,74,Florian Wirtz,40724.0,Right Foot,Post,0.065652676,,Bayer Leverkusen,904
+68e7dd2f-7aab-442d-bf43-1e2d33a917ba,3895220,75,Emir Karic,8606.0,Right Foot,Saved,0.013157294,,Darmstadt 98,872
+31ebec76-844e-4489-bd55-22ba6baa309e,3895220,75,Adam Hložek,28239.0,Right Foot,Blocked,0.098569624,,Bayer Leverkusen,904
+d3ebd28c-8b24-4ddf-9e11-d86d191e7b19,3895220,92,Borja Iglesias Quintas,11391.0,Right Foot,Saved,0.17624736,,Bayer Leverkusen,904
+ed4e6d65-30d2-4439-89af-dc1b81d129dc,3895250,2,Granit Xhaka,3500.0,Left Foot,Goal,0.018621445,,Bayer Leverkusen,904
+9ba2951c-8962-4faa-839c-3fda33f1d8b9,3895250,6,Dominik Kohr,8207.0,Head,Goal,0.16129196,,FSV Mainz 05,177
+aeb13977-11b7-4b64-8e74-0daac39e6fd3,3895250,9,Karim Onisiwo,11278.0,Right Foot,Saved,0.028864658,,FSV Mainz 05,177
+ff537388-23df-49be-b28d-781b44409cfb,3895250,14,Leandro Barreiro Martins,23402.0,Right Foot,Blocked,0.014087476,,FSV Mainz 05,177
+04b61d32-80d8-46ce-b47c-4446dbb5562e,3895250,15,Anthony Caci,10480.0,Right Foot,Saved,0.025662301,,FSV Mainz 05,177
+951b8142-5777-429a-8bfb-44f9898ad631,3895250,15,Jonas Hofmann,8804.0,Right Foot,Saved,0.101310536,,Bayer Leverkusen,904
+cab4ddbd-eed1-41f1-bb60-249c006cf6f2,3895250,19,Granit Xhaka,3500.0,Left Foot,Saved,0.033113256,,Bayer Leverkusen,904
+ea0b46da-b503-4e90-a637-6431d921bfcc,3895250,21,Jeremie Frimpong,32712.0,Left Foot,Wayward,0.14916393,,Bayer Leverkusen,904
+78ac115a-ad92-4ff8-b2dd-b8f3b46e3c26,3895250,22,Nadiem Amiri,8403.0,Left Foot,Off T,0.04142683,,FSV Mainz 05,177
+c3cb048f-1c09-4a8c-83e1-16d06e8b9e5d,3895250,27,Dominik Kohr,8207.0,Head,Saved,0.097921975,,FSV Mainz 05,177
+006143bc-cc3a-46de-a01b-97907b45c485,3895250,27,Jonas Hofmann,8804.0,Right Foot,Blocked,0.07782621,,Bayer Leverkusen,904
+6d54ba6a-93fa-4bc3-9e28-78c9478f1022,3895250,29,Edmond Fayçal Tapsoba,30606.0,Right Foot,Blocked,0.043493688,,Bayer Leverkusen,904
+f5e42edb-9ef6-419b-b2ed-0e9e467b91e5,3895250,35,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.037617594,,Bayer Leverkusen,904
+8bf82747-9af4-4355-a2fd-0aa926f69c50,3895250,36,Jonas Hofmann,8804.0,Right Foot,Blocked,0.029902568,,Bayer Leverkusen,904
+3cd44888-2a8a-46ff-a454-73f1a1dae1a1,3895250,39,Jonas Hofmann,8804.0,Right Foot,Saved,0.34426537,,Bayer Leverkusen,904
+b5e4dcaf-2007-4435-9c52-8d97f8ad39e4,3895250,40,Florian Wirtz,40724.0,Head,Off T,0.045675185,,Bayer Leverkusen,904
+ab68d191-79ab-438b-a6e0-cfbb3bfa4474,3895250,42,Alejandro Grimaldo García,10336.0,Left Foot,Saved Off Target,0.04672569,,Bayer Leverkusen,904
+5f4c33e9-db4a-470c-9da1-43380324cd19,3895250,43,Edmond Fayçal Tapsoba,30606.0,Right Foot,Off T,0.016781375,,Bayer Leverkusen,904
+43a0c839-50f2-41d0-bd34-3b9cf00d3133,3895250,47,Philipp Mwene,13315.0,Head,Off T,0.1299605,,FSV Mainz 05,177
+f0c17567-5981-493b-bafb-add34b3e7a19,3895250,49,Leandro Barreiro Martins,23402.0,Right Foot,Blocked,0.12057706,,FSV Mainz 05,177
+d0be8f04-8249-45de-95ab-bd5eded22cd7,3895250,52,Florian Wirtz,40724.0,Right Foot,Blocked,0.035352517,,Bayer Leverkusen,904
+4bb31634-1ae8-49cb-832c-079e666e1cc8,3895250,54,Jae-Sung Lee,5623.0,Left Foot,Off T,0.40074953,,FSV Mainz 05,177
+548b3344-88bd-44e7-b78b-c569219ef1d0,3895250,61,Amine Adli,33401.0,Head,Off T,0.04576154,,Bayer Leverkusen,904
+14341980-96ef-414d-ab4e-7e3165c8ec75,3895250,62,Florian Wirtz,40724.0,Right Foot,Off T,0.051675532,,Bayer Leverkusen,904
+455c1ca8-cd57-49cc-9359-c572f7c6baa6,3895250,64,Jessic Ngankam,40707.0,Right Foot,Blocked,0.039315462,,FSV Mainz 05,177
+6316afa5-dea9-4f61-ad10-6b0b79fb079b,3895250,67,Robert Andrich,9195.0,Right Foot,Goal,0.0062867645,,Bayer Leverkusen,904
+c77e6a91-92a0-4ba0-b9e8-a8e6c7a7b2b7,3895250,88,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.02914501,,Bayer Leverkusen,904
+d695e0d2-f207-4f3a-96de-d2ae74a083a1,3895250,93,Tom Krauß,38917.0,Left Foot,Off T,0.025439186,,FSV Mainz 05,177
+ab9db13d-55d4-489e-89ad-ef45b47f3453,3895250,94,Tom Krauß,38917.0,Right Foot,Blocked,0.031515323,,FSV Mainz 05,177
+5eff33ae-c429-4efc-ae23-d57971e46970,3895250,94,Jae-Sung Lee,5623.0,Left Foot,Off T,0.024359915,,FSV Mainz 05,177
+1cdfc19c-c86b-4ea5-b172-4f5bf6e4160c,3895266,13,Jonas Older Wind,21261.0,Head,Wayward,0.089785635,,Wolfsburg,179
+46bc3015-e2de-4dba-8de2-e8b49de20c99,3895266,16,Josip Stanišić,49337.0,Right Foot,Saved,0.026901074,,Bayer Leverkusen,904
+2b5389b6-bead-485d-b352-68a649932b7f,3895266,21,Florian Wirtz,40724.0,Right Foot,Saved to Post,0.14104629,,Bayer Leverkusen,904
+607c9e9d-c0a7-466d-a095-16e6b6b0d836,3895266,22,Granit Xhaka,3500.0,Left Foot,Off T,0.021627331,,Bayer Leverkusen,904
+30a68c88-1868-4824-b557-7f424542b529,3895266,24,Cédric Zesiger,29353.0,Left Foot,Saved,0.0319329,,Wolfsburg,179
+832af03d-9760-43f4-8a4d-25008e62d19f,3895266,26,Ridle Bote Baku,12630.0,Right Foot,Blocked,0.105068766,,Wolfsburg,179
+7ae6b656-d1fc-4266-8ba8-0e1335343bab,3895266,36,Nathan Tella,41411.0,Head,Goal,0.69061685,,Bayer Leverkusen,904
+3c6f9a75-7b63-48be-af13-7c0e75a32931,3895266,39,Piero Martín Hincapié Reyna,38004.0,Head,Saved,0.2274368,,Bayer Leverkusen,904
+ec85fe91-d865-4a21-a6a2-f990d1ee9fca,3895266,40,Exequiel Alejandro Palacios,28268.0,Right Foot,Off T,0.021381944,,Bayer Leverkusen,904
+d7fa937d-364f-4e4f-b725-0f06f75c9ea2,3895266,42,Jonathan Tah,8221.0,Right Foot,Off T,0.020283904,,Bayer Leverkusen,904
+4f33d4ba-8fee-4ba0-ac0b-2c7fb688004f,3895266,50,Florian Wirtz,40724.0,Right Foot,Blocked,0.02511887,,Bayer Leverkusen,904
+f3e8f6e3-a19e-4f90-8c65-e54e3a7ea197,3895266,61,Amine Adli,33401.0,Head,Off T,0.055427536,,Bayer Leverkusen,904
+c7c2b7e7-cf02-4e2a-ae68-fb18c9096c97,3895266,63,Edmond Fayçal Tapsoba,30606.0,Right Foot,Blocked,0.026826069,,Bayer Leverkusen,904
+d0de91a1-0989-4463-b5c5-d5ee5842198b,3895266,69,Granit Xhaka,3500.0,Left Foot,Saved,0.021693934,,Bayer Leverkusen,904
+d1cfd667-0785-4e25-9324-5897223d021c,3895266,70,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.008269166,,Bayer Leverkusen,904
+d8aa12c2-8e00-4951-ad6d-f1863ecb827e,3895266,73,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.046031747,,Bayer Leverkusen,904
+80ed61dc-792c-4432-94c4-17e14d9b6af7,3895266,77,Jonathan Tah,8221.0,Head,Saved,0.034758765,,Bayer Leverkusen,904
+ffe6635e-6109-4aac-8abf-fca3390b33da,3895266,81,Borja Iglesias Quintas,11391.0,Right Foot,Blocked,0.09381463,,Bayer Leverkusen,904
+d709e83d-ed45-4bed-bfd8-39f6fa227cc1,3895266,81,Jonas Hofmann,8804.0,Right Foot,Saved,0.0060533835,,Bayer Leverkusen,904
+dd57245d-2c62-438b-8414-f19fa11e2a4c,3895266,82,Amine Adli,33401.0,Head,Wayward,0.076869525,,Bayer Leverkusen,904
+ebf244a5-cd40-4e8b-ba53-884a0883a56a,3895266,84,Exequiel Alejandro Palacios,28268.0,Right Foot,Off T,0.07046236,,Bayer Leverkusen,904
+8d63447c-9e8d-47a4-a40b-744d0d5d3750,3895266,85,Florian Wirtz,40724.0,Right Foot,Goal,0.17132688,,Bayer Leverkusen,904
+0b7cd6e5-2ab6-46d0-b7d3-4e5b4a43513b,3895275,1,Florian Wirtz,40724.0,Right Foot,Goal,0.085923634,,Bayer Leverkusen,904
+b1f1a7c4-1fe5-4e3b-b707-5225ba587c8a,3895275,7,Jonathan Tah,8221.0,Right Foot,Off T,0.025179192,,Bayer Leverkusen,904
+0f5d09ff-65b7-4861-8b41-4f88c7784d77,3895275,9,Ritsu Doan,8361.0,Left Foot,Goal,0.076960765,,Freiburg,183
+8e8c8d3d-4196-4c1a-95a1-edd299cfa7b7,3895275,19,Christian Günter,8945.0,Left Foot,Off T,0.022134773,,Freiburg,183
+cbed5607-fe18-4c22-8c8c-dd30aebede68,3895275,23,Merlin Röhl,48240.0,Right Foot,Off T,0.05166588,,Freiburg,183
+f4f15956-e226-46db-b008-eb710fd15dce,3895275,24,Roland Sallai,19316.0,Right Foot,Off T,0.15504521,,Freiburg,183
+0d0362d8-bc12-426d-9b51-bdd9cab5114e,3895275,27,Nicolas Höfler,8939.0,Head,Wayward,0.032508153,,Freiburg,183
+c9e789ae-b6a0-4661-bc8f-11e18d4cc2bb,3895275,27,Lucas Höler,12418.0,Right Foot,Wayward,0.13077787,,Freiburg,183
+902e7a01-074f-4009-b108-0334b666f618,3895275,29,Piero Martín Hincapié Reyna,38004.0,Left Foot,Off T,0.008700319,,Bayer Leverkusen,904
+b97b1644-ca73-4677-b0b1-b2c6828d7678,3895275,36,Christian Günter,8945.0,Right Foot,Blocked,0.029738823,,Freiburg,183
+bd1c22a0-5af0-418f-b21c-5b5ff6918fa2,3895275,36,Jeremie Frimpong,32712.0,Other,Off T,0.0877793,,Bayer Leverkusen,904
+5b4d4b05-f9c1-46a2-bc2d-f8ca2fe92e0e,3895275,39,Patrik Schick,7044.0,Left Foot,Saved,0.34640375,,Bayer Leverkusen,904
+019e5bc7-ba5c-4df0-82e1-cc75e4afc92f,3895275,39,Adam Hložek,28239.0,Right Foot,Goal,0.6657846,,Bayer Leverkusen,904
+a215d725-29c9-41c8-917d-cd0cd25dd1e8,3895275,44,Exequiel Alejandro Palacios,28268.0,Right Foot,Saved,0.10960264,,Bayer Leverkusen,904
+1061e36c-f787-4847-9437-32806d995e37,3895275,46,Jonathan Tah,8221.0,Head,Saved,0.12180603,,Bayer Leverkusen,904
+52a7fa2e-d0f8-4c2f-80ab-feb50b4c300a,3895275,50,Adam Hložek,28239.0,Right Foot,Blocked,0.047047477,,Bayer Leverkusen,904
+3f830217-2ce9-405d-8208-11efa25c1dfd,3895275,51,Adam Hložek,28239.0,Left Foot,Blocked,0.03578879,,Bayer Leverkusen,904
+0034dfb1-6265-41df-92a1-bb0ba058776a,3895275,52,Patrik Schick,7044.0,Left Foot,Goal,0.064399794,,Bayer Leverkusen,904
+8c45168e-b881-4c4e-9bf1-de162b0ffdc9,3895275,56,Merlin Röhl,48240.0,Head,Off T,0.092075124,,Freiburg,183
+c49a2fd5-b6e1-4a66-b0bb-030823e2395e,3895275,57,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.05587428,,Bayer Leverkusen,904
+7aa407d9-bbfc-45ad-b7b8-1a67341a38f5,3895275,72,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.076487154,,Bayer Leverkusen,904
+ecfa2911-7030-430a-8768-1be27da2aa6f,3895275,72,Adam Hložek,28239.0,Right Foot,Blocked,0.06286146,,Bayer Leverkusen,904
+b639189a-d3da-4316-ba3a-a408ff911d73,3895275,74,Adam Hložek,28239.0,Right Foot,Wayward,0.2216173,,Bayer Leverkusen,904
+850de483-01af-483f-add7-636d5e0426da,3895275,78,Yannik Keitel,35713.0,Left Foot,Saved,0.1314997,,Freiburg,183
+f499cd13-8e67-4816-95bb-8cab52c95030,3895275,78,Yannik Keitel,35713.0,Right Foot,Goal,0.09991422,,Freiburg,183
+8504fc44-1916-4c83-8c82-0588d155fa48,3895275,81,Florian Wirtz,40724.0,Right Foot,Post,0.43475327,,Bayer Leverkusen,904
+ea2f37eb-921a-43a6-aa2b-9c84efe982ed,3895275,86,Granit Xhaka,3500.0,Left Foot,Saved,0.03647135,,Bayer Leverkusen,904
+1c25d248-19bf-4d0d-8809-120a0ff3eb5a,3895275,87,Exequiel Alejandro Palacios,28268.0,Left Foot,Wayward,0.050891858,,Bayer Leverkusen,904
+70eff410-4678-4b29-8615-7667ab8a2c20,3895275,89,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.05880406,,Bayer Leverkusen,904
+59f50623-dadd-4dba-91fd-4223f48da99e,3895275,93,Manuel Gulde,12422.0,Head,Off T,0.10829955,,Freiburg,183
+2ae4983e-b21b-42e1-989d-90da0f2d6bc7,3895180,4,Willian Joel Pacho Tenorio,41593.0,Left Foot,Saved,0.05442568,,Eintracht Frankfurt,184
+e873a238-e39c-4e5b-bee7-cbd04d4e5cd7,3895180,13,Victor Okoh Boniface,32289.0,Right Foot,Goal,0.052349553,,Bayer Leverkusen,904
+f84f4848-bb50-451e-bf63-b4586b3975d3,3895180,26,Lucas Silva Melo,33088.0,Right Foot,Blocked,0.045849387,,Eintracht Frankfurt,184
+541890a9-808d-4d07-b9b4-950aaf802c90,3895180,33,Alejandro Grimaldo García,10336.0,Left Foot,Post,0.07529922,,Bayer Leverkusen,904
+3ae695a8-991a-4f2f-83aa-ea0763b2515b,3895180,49,Florian Wirtz,40724.0,Right Foot,Off T,0.081502266,,Bayer Leverkusen,904
+c83dacc4-a06a-4c16-bff6-e25ee2740b6e,3895180,50,Victor Okoh Boniface,32289.0,Right Foot,Saved,0.14189132,,Bayer Leverkusen,904
+fb48cdac-fe0a-4452-a680-5880ed308a40,3895180,50,Jeremie Frimpong,32712.0,Left Foot,Goal,0.9111029,,Bayer Leverkusen,904
+fcfab8e6-651c-406f-a51d-d87d1d1804d0,3895180,56,Florian Wirtz,40724.0,Right Foot,Goal,0.3293735,,Bayer Leverkusen,904
+7b4d2a3e-b744-4bf1-9a88-beec60f4365c,3895180,69,Alejandro Grimaldo García,10336.0,Right Foot,Saved,0.06903119,,Bayer Leverkusen,904
+3c2f2055-b1af-4159-906c-c641e9ad5e45,3895180,69,Fares Chaïbi,217047.0,Right Foot,Saved,0.052682277,,Eintracht Frankfurt,184
+41302cc0-8445-4a66-84e4-f304b1a7460a,3895180,72,Patrik Schick,7044.0,Head,Saved,0.08704005,,Bayer Leverkusen,904
+89cdac4a-f79e-42de-ad9a-fbc70397b8a6,3895180,74,Florian Wirtz,40724.0,Right Foot,Blocked,0.046395227,,Bayer Leverkusen,904
+b353ca35-a05f-4a3e-bc76-abeaba9476f1,3895180,80,Florian Wirtz,40724.0,Right Foot,Post,0.08699181,,Bayer Leverkusen,904
+1d886e5d-5ccd-4f6e-b895-3ed152e8a9cf,3895180,81,Odilon Kossonou,27133.0,Left Foot,Off T,0.10714567,,Bayer Leverkusen,904
+398dba86-b490-4dfa-a24e-134ab4f28080,3895180,83,Piero Martín Hincapié Reyna,38004.0,Left Foot,Post,0.5211891,,Bayer Leverkusen,904
+26f12ece-632a-419b-b17f-c63e9508a6bb,3895180,83,Granit Xhaka,3500.0,Left Foot,Off T,0.024108738,,Bayer Leverkusen,904
+541cfc39-9059-45d9-af39-d3525ccdbbf9,3895180,89,Edmond Fayçal Tapsoba,30606.0,Left Foot,Off T,0.21981987,,Bayer Leverkusen,904
+f7a17eb2-c19e-4bad-a8bf-c594a1dfdbe6,3895180,93,Aurélio Gabriel Ulineia Buta,23658.0,Right Foot,Blocked,0.031955447,,Eintracht Frankfurt,184
+bc5cf701-66a0-4bbf-a349-b178a8999ebb,3895134,8,Florian Wirtz,40724.0,Right Foot,Goal,0.4335934,,Bayer Leverkusen,904
+44e48928-bcd2-425d-bcd2-88b4b3e10764,3895134,9,Victor Okoh Boniface,32289.0,Left Foot,Saved,0.07854628,,Bayer Leverkusen,904
+4fe6aff6-7231-491b-997a-338fadac7569,3895134,11,Marius Bülter,9133.0,Right Foot,Saved,0.006225055,,Hoffenheim,175
+ed28c5b0-e24d-47ab-bda4-1ab1af47eea3,3895134,13,Finn Ole Becker,24845.0,Left Foot,Saved,0.013017672,,Hoffenheim,175
+89aae71e-0195-4011-b31e-746a31a8e5f1,3895134,24,Jonas Hofmann,8804.0,Left Foot,Off T,0.08007127,,Bayer Leverkusen,904
+84390d10-a41f-49ba-88db-154a17552b56,3895134,30,Robert Skov,16294.0,Left Foot,Off T,0.0745104,,Hoffenheim,175
+e247a33d-7255-4f8f-b6d1-48f2b49cb559,3895134,35,Jeremie Frimpong,32712.0,Left Foot,Off T,0.10737679,,Bayer Leverkusen,904
+e296dfd5-410a-4bd0-a68c-c8355fc52579,3895134,44,Jonas Hofmann,8804.0,Right Foot,Blocked,0.041514,,Bayer Leverkusen,904
+528c2a96-74fb-491f-89c7-e1eb61b46a8e,3895134,45,Alejandro Grimaldo García,10336.0,Left Foot,Goal,0.062151197,,Bayer Leverkusen,904
+afd58a01-2991-4c02-bba5-e7b32bee6b80,3895134,49,Maximilian Beier,35242.0,Left Foot,Saved,0.056721255,,Hoffenheim,175
+52e05143-8251-4ebf-b3ad-24b176ff58c9,3895134,49,Maximilian Beier,35242.0,Right Foot,Off T,0.08159193,,Hoffenheim,175
+ef91d277-efbb-413a-bbfe-a809658e86b1,3895134,53,Robert Skov,16294.0,Left Foot,Saved,0.061765596,,Hoffenheim,175
+8845c5d5-08d3-4cc6-886f-86dc5b9ca23f,3895134,55,Anton Stach,48644.0,Right Foot,Goal,0.021272723,,Hoffenheim,175
+d09d953f-5858-4b2b-ac07-af6daf160635,3895134,57,Maximilian Beier,35242.0,Right Foot,Saved to Post,0.023005191,,Hoffenheim,175
+56d94ee6-a5a0-422e-aacd-4777fb01df43,3895134,57,Wout Weghorst,7829.0,Right Foot,Goal,0.79331625,,Hoffenheim,175
+a8e2cce7-55ae-441c-90d2-c76e3828c1a8,3895134,63,Wout Weghorst,7829.0,Head,Off T,0.24730963,,Hoffenheim,175
+314fc629-dbd3-4934-94c6-c591e358dbff,3895134,66,Alejandro Grimaldo García,10336.0,Left Foot,Saved,0.022710646,,Bayer Leverkusen,904
+18cc929b-52f5-45e3-8615-daf9260a31da,3895134,69,Victor Okoh Boniface,32289.0,Head,Wayward,0.29677752,,Bayer Leverkusen,904
+43672ac5-0101-457e-a459-fd4511a635ba,3895134,69,Alejandro Grimaldo García,10336.0,Left Foot,Goal,0.067309774,,Bayer Leverkusen,904
+7991b6e8-c658-41e0-9489-feaefdcd4c2e,3895134,72,Maximilian Beier,35242.0,Right Foot,Blocked,0.05701001,,Hoffenheim,175
+2e62b86d-9b63-4229-b9f6-e29024ac4376,3895134,86,Jeremie Frimpong,32712.0,Left Foot,Off T,0.08442526,,Bayer Leverkusen,904
+1953208b-7e7b-4560-91c0-0b86660f4516,3895134,91,Andrej Kramarić,5460.0,Left Foot,Blocked,0.04776482,,Hoffenheim,175
+7baac0c7-203d-4e43-89f7-7d482a26ee0d,3895121,0,Granit Xhaka,3500.0,Left Foot,Off T,0.032057807,,Bayer Leverkusen,904
+f22266fd-345a-4d52-8390-69c13ff3df92,3895121,6,Victor Okoh Boniface,32289.0,Left Foot,Blocked,0.05218258,,Bayer Leverkusen,904
+e5084146-9d0d-4118-9547-119e59d783ab,3895121,14,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.007893321,,Bayer Leverkusen,904
+c739c650-2b62-4b07-84f4-406ed443109a,3895121,15,Granit Xhaka,3500.0,Left Foot,Off T,0.015882464,,Bayer Leverkusen,904
+1d46cf14-436d-4645-b4c2-ac1ee76f3aed,3895121,18,Exequiel Alejandro Palacios,28268.0,Right Foot,Off T,0.039436143,,Bayer Leverkusen,904
+f8fe0785-2ca0-41e9-b2b6-000ccd504061,3895121,20,Victor Okoh Boniface,32289.0,Head,Off T,0.14380059,,Bayer Leverkusen,904
+979bce09-62d8-4fa7-be93-b3bac4a35d6a,3895121,24,Jonathan Tah,8221.0,Right Foot,Blocked,0.02354686,,Bayer Leverkusen,904
+c0fc7632-d885-4482-8d88-6670020ca205,3895121,26,Lucas Höler,12418.0,Right Foot,Saved,0.10256993,,Freiburg,183
+e9d3a1c6-d630-4f3d-b52f-6a3dc3fb97f8,3895121,26,Victor Okoh Boniface,32289.0,Left Foot,Blocked,0.12416381,,Bayer Leverkusen,904
+e877d7f3-6505-4d08-b4d5-f82ab8c3ec6d,3895121,34,Jonas Hofmann,8804.0,Right Foot,Blocked,0.107531756,,Bayer Leverkusen,904
+12b0d458-1b39-41dd-aaac-a5c99f79e931,3895121,35,Florian Wirtz,40724.0,Left Foot,Goal,0.07542497,,Bayer Leverkusen,904
+e99d627f-e66e-4177-9c42-3b426364602c,3895121,39,Jeremie Frimpong,32712.0,Right Foot,Blocked,0.023462128,,Bayer Leverkusen,904
+836423cc-0eda-4db1-a100-07e1790c1bcb,3895121,44,Edmond Fayçal Tapsoba,30606.0,Head,Off T,0.1891779,,Bayer Leverkusen,904
+80fe4067-ca12-484a-a5c3-5a03b289b548,3895121,45,Merlin Röhl,48240.0,Right Foot,Saved,0.06367173,,Freiburg,183
+b618df8a-6b06-457d-af36-28fae7ca9c46,3895121,49,Florian Wirtz,40724.0,Right Foot,Saved,0.09521932,,Bayer Leverkusen,904
+a5a83f87-2ee0-4ac1-9fa8-ac8ec64356d1,3895121,58,Victor Okoh Boniface,32289.0,Right Foot,Off T,0.0049094576,,Bayer Leverkusen,904
+e2be8cf0-ff95-403e-98b6-9cdc76ad05d5,3895121,59,Jonas Hofmann,8804.0,Right Foot,Post,0.08828274,,Bayer Leverkusen,904
+009d8c9c-a9a9-4dfd-85ef-188a7767d6e5,3895121,65,Lukas Kübler,11459.0,Right Foot,Blocked,0.021455169,,Freiburg,183
+0a50d7fa-da0f-4e7c-a56b-f11e159f2ec9,3895121,65,Jeremie Frimpong,32712.0,Right Foot,Post,0.2986823,,Bayer Leverkusen,904
+70d5be14-acb6-4846-b9c5-a069636b6351,3895121,69,Manuel Gulde,12422.0,Head,Goal,0.23913546,,Freiburg,183
+f7c51677-82de-4f9f-86ab-2d0233c17e35,3895121,72,Lucas Höler,12418.0,Right Foot,Blocked,0.033053584,,Freiburg,183
+0e45f741-2836-4301-be79-391b6e7e1f7f,3895121,72,Kiliann Sildillia,79429.0,Right Foot,Saved,0.052247137,,Freiburg,183
+6b82361c-488c-47fe-b46f-d7dfccf5bbd0,3895121,73,Florian Wirtz,40724.0,Right Foot,Saved to Post,0.048938446,,Bayer Leverkusen,904
+f483a064-58af-4ec4-b768-2744c218e932,3895121,79,Exequiel Alejandro Palacios,28268.0,Left Foot,Off T,0.05474969,,Bayer Leverkusen,904
+afa684dd-764a-49f7-bf3d-2b0170d7f035,3895121,79,Michael Gregoritsch,8309.0,Right Foot,Off T,0.07124694,,Freiburg,183
+bf3d76f6-3556-46cb-9376-9cbc6875f8df,3895121,83,Michael Gregoritsch,8309.0,Head,Off T,0.053001095,,Freiburg,183
+f862dca7-3ba0-4a55-9e04-9c7781b79e4e,3895121,90,Kiliann Sildillia,79429.0,Right Foot,Off T,0.05566017,,Freiburg,183
+dce20757-d2f2-4278-b389-bd2cd84ef29c,3895121,94,Michael Gregoritsch,8309.0,Head,Off T,0.07623301,,Freiburg,183
+191352f4-b6b1-4676-bb29-03561c51730b,3895107,0,Florian Wirtz,40724.0,Right Foot,Saved,0.043692373,,Bayer Leverkusen,904
+82b64c2b-7393-440f-bc6b-a47e02f6b722,3895107,9,Julian Chabot,8352.0,Head,Off T,0.12117475,,FC Köln,186
+b2d5366c-4dee-4904-930e-a75104a88eab,3895107,11,Victor Okoh Boniface,32289.0,Right Foot,Blocked,0.061079353,,Bayer Leverkusen,904
+aaee45ea-af21-455f-a2b1-83ed15845ac6,3895107,11,Victor Okoh Boniface,32289.0,Right Foot,Saved,0.13403521,,Bayer Leverkusen,904
+e6c7c7ff-c635-4f9b-914c-b299368e07e9,3895107,12,Victor Okoh Boniface,32289.0,Right Foot,Blocked,0.064727865,,Bayer Leverkusen,904
+6926b425-5a2d-484b-a4d5-85f4e6298216,3895107,14,Jonas Hofmann,8804.0,Right Foot,Blocked,0.055555455,,Bayer Leverkusen,904
+a0c635e4-d590-46ad-9e55-f054f78a9ff1,3895107,15,Jonathan Tah,8221.0,Head,Off T,0.110566854,,Bayer Leverkusen,904
+4b042657-3c64-4516-bb8d-f1c322719eeb,3895107,18,Florian Wirtz,40724.0,Right Foot,Saved,0.021526279,,Bayer Leverkusen,904
+e0dada79-fcfb-4294-aa8e-18116ec67027,3895107,21,Jonas Hofmann,8804.0,Left Foot,Goal,0.19221357,,Bayer Leverkusen,904
+2de00683-0883-4d97-892e-a2500b03e67a,3895107,26,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.10844014,,Bayer Leverkusen,904
+0a0aeb90-f461-4fbe-8b3f-9011e25a47d4,3895107,31,Jeremie Frimpong,32712.0,Right Foot,Goal,0.3447506,,Bayer Leverkusen,904
+db44dcba-6ceb-4173-af6c-d18a1883a2eb,3895107,34,Alejandro Grimaldo García,10336.0,Left Foot,Saved,0.0076719634,,Bayer Leverkusen,904
+30bc9a92-63a7-4dea-86b1-5fd2cd200584,3895107,35,Florian Wirtz,40724.0,Head,Off T,0.03361518,,Bayer Leverkusen,904
+27149088-cbf9-494a-8e26-15ddbc4741e6,3895107,37,Jeremie Frimpong,32712.0,Left Foot,Blocked,0.06705256,,Bayer Leverkusen,904
+de22bc6b-4daa-4f48-87eb-589d3e5d35f4,3895107,45,Davie Selke,11279.0,Right Foot,Blocked,0.09981244,,FC Köln,186
+a75b6539-bee4-420b-b8b1-65759c8761be,3895107,46,Eric Martel,38991.0,Head,Saved,0.18803596,,FC Köln,186
+5fbd0489-4f85-4e56-829f-3753eeb88539,3895107,46,Eric Martel,38991.0,Left Foot,Saved,0.5475934,,FC Köln,186
+ea3e0515-ea35-4660-87cd-e1650a061d1c,3895107,46,Florian Wirtz,40724.0,Right Foot,Saved,0.051511027,,Bayer Leverkusen,904
+ea579ea8-c5c3-43cb-86b1-b254b3d6e3fb,3895107,53,Jeremie Frimpong,32712.0,Right Foot,Saved,0.38250083,,Bayer Leverkusen,904
+365ce792-877a-4513-abd2-98766c899e8f,3895107,59,Florian Wirtz,40724.0,Right Foot,Off T,0.054658294,,Bayer Leverkusen,904
+858312e1-fe6f-4281-914e-4fb03ba0374f,3895107,66,Victor Okoh Boniface,32289.0,Left Foot,Goal,0.37799448,,Bayer Leverkusen,904
+5d05bf0a-7b81-496f-8f02-725cdc90f3e9,3895107,67,Victor Okoh Boniface,32289.0,Right Foot,Saved,0.28238183,,Bayer Leverkusen,904
+2edcf081-d445-474b-8b2d-75797f1a959c,3895107,70,Julian Chabot,8352.0,Head,Off T,0.11766579,,FC Köln,186
+7dbc76bb-0c3d-4cd4-9c7c-3227dfe899f5,3895107,71,Granit Xhaka,3500.0,Left Foot,Blocked,0.04141494,,Bayer Leverkusen,904
+b52b18fc-952b-4f91-9819-138c06750506,3895107,76,Dejan Ljubicic,8623.0,Right Foot,Off T,0.005871595,,FC Köln,186
+dfad304d-d7f5-4215-bedd-365b92649aa8,3895107,77,Victor Okoh Boniface,32289.0,Right Foot,Off T,0.4318183,,Bayer Leverkusen,904
+3033427a-49c3-45a9-b0f2-9c53df558f59,3895107,81,Jonas Hofmann,8804.0,Head,Wayward,0.023003938,,Bayer Leverkusen,904
+97093c18-29f0-422a-b0f3-bbbc3aadaa6a,3895107,83,Nathan Tella,41411.0,Left Foot,Blocked,0.026818357,,Bayer Leverkusen,904
+ef50f866-8da1-41c0-9e21-2ec7ecd09fe1,3895107,85,Max Finkgräfe,405983.0,Head,Saved,0.1103103,,FC Köln,186
+61e05b20-2f57-4401-b337-f7475a0ad499,3895107,92,Amine Adli,33401.0,Left Foot,Blocked,0.025139155,,Bayer Leverkusen,904
+0ba11e25-68d9-45a5-8a08-7fb1024e737b,3895074,1,Serge Gnabry,8400.0,Left Foot,Off T,0.063358195,,Bayern Munich,169
+9d894c83-4d3f-457c-8167-97b6db92e3f0,3895074,2,Konrad Laimer,8506.0,Left Foot,Saved,0.10947095,,Bayern Munich,169
+4fb0398f-7ba0-4be8-9b71-3b477e2658eb,3895074,6,Harry Kane,10955.0,Head,Goal,0.3693536,,Bayern Munich,169
+aa966d8a-be42-466d-bf9c-9466c953414e,3895074,10,Leroy Sané,3053.0,Left Foot,Off T,0.06417249,,Bayern Munich,169
+83842ff3-709e-468f-9a75-32dd55cd6b0e,3895074,22,Victor Okoh Boniface,32289.0,Right Foot,Blocked,0.07310649,,Bayer Leverkusen,904
+5667d74e-c1f0-4282-91a4-5f89c6db16e2,3895074,23,Alejandro Grimaldo García,10336.0,Left Foot,Goal,0.06606824,,Bayer Leverkusen,904
+162cfa7d-b412-4314-9bc8-32363be03691,3895074,30,Victor Okoh Boniface,32289.0,Right Foot,Saved,0.024618072,,Bayer Leverkusen,904
+76c031af-d1a0-49ec-98c6-f8b8c6f59c8d,3895074,31,Granit Xhaka,3500.0,Left Foot,Saved,0.006139515,,Bayer Leverkusen,904
+e580ccbc-f422-455f-8282-476165725146,3895074,31,Victor Okoh Boniface,32289.0,Left Foot,Off T,0.12689573,,Bayer Leverkusen,904
+3cd1b4a8-87b9-4c74-abc8-c936f50ffd01,3895074,34,Thomas Müller,5562.0,Head,Saved,0.101909965,,Bayern Munich,169
+73ed144d-f732-4516-bf41-bbebcd053e4c,3895074,34,Serge Gnabry,8400.0,Right Foot,Blocked,0.09369614,,Bayern Munich,169
+44a74e3a-859b-473b-95cb-906764036a0d,3895074,39,Victor Okoh Boniface,32289.0,Right Foot,Blocked,0.11530868,,Bayer Leverkusen,904
+4e0e2d1b-2d34-4d21-bcf4-e80e2f964229,3895074,41,Leroy Sané,3053.0,Left Foot,Saved,0.054536756,,Bayern Munich,169
+2fba6753-d8f3-4018-9008-c38fc093baa3,3895074,42,Min Jae Kim,43565.0,Right Foot,Blocked,0.07818774,,Bayern Munich,169
+1b7d0168-169b-491c-ae18-b865cb3691b6,3895074,43,Leon Goretzka,6324.0,Head,Saved,0.06734137,,Bayern Munich,169
+f46f67db-8899-4579-98b4-1f8120383cc3,3895074,44,Serge Gnabry,8400.0,Right Foot,Saved,0.05397133,,Bayern Munich,169
+63ce5ba1-207d-4794-9b73-2bfefd096446,3895074,45,Konrad Laimer,8506.0,Left Foot,Blocked,0.027416596,,Bayern Munich,169
+c742126c-764f-4211-9422-d4fa840dcef6,3895074,45,Serge Gnabry,8400.0,Head,Off T,0.2851616,,Bayern Munich,169
+9327f533-e6ef-4c9e-b0d7-e382931e953e,3895074,50,Victor Okoh Boniface,32289.0,Right Foot,Off T,0.003449392,,Bayer Leverkusen,904
+f093c5a4-179b-49f0-9c0a-8f2f825bf2ad,3895074,51,Joshua Kimmich,5579.0,Left Foot,Saved,0.020028673,,Bayern Munich,169
+1188faab-c235-4cde-a907-f1136e9b3e02,3895074,56,Harry Kane,10955.0,Right Foot,Saved,0.48798564,,Bayern Munich,169
+170911cb-fae1-4bcd-8953-35fb73cdd932,3895074,64,Dayotchanculle Upamecano,8519.0,Head,Off T,0.0514962,,Bayern Munich,169
+81abdd8f-aa8d-4866-958a-0bb09e4c9cfe,3895074,77,Florian Wirtz,40724.0,Left Foot,Post,0.36008543,,Bayer Leverkusen,904
+090345e5-0659-4700-a2e8-4974c8ebfb50,3895074,79,Victor Okoh Boniface,32289.0,Right Foot,Saved,0.26171917,,Bayer Leverkusen,904
+85e396a8-118d-44af-a36a-c585a7caacb8,3895074,80,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.03284856,,Bayer Leverkusen,904
+5338f09e-864f-4abb-bf7d-13ce7f7e1892,3895074,84,Victor Okoh Boniface,32289.0,Right Foot,Off T,0.117368564,,Bayer Leverkusen,904
+260d69eb-bbe8-47f8-971f-ed9b89711ae7,3895074,85,Leon Goretzka,6324.0,Left Foot,Goal,0.28143716,,Bayern Munich,169
+e60bd19e-3e61-4b34-82f6-77046e0a643f,3895074,87,Victor Okoh Boniface,32289.0,Left Foot,Off T,0.24694893,,Bayer Leverkusen,904
+3f2ab42d-6012-4d8d-be29-bf09dd10ef74,3895074,93,Exequiel Alejandro Palacios,28268.0,Right Foot,Goal,0.7835,,Bayer Leverkusen,904
+14f4ee20-90ef-4221-a07d-24b00db16885,3895139,8,Victor Okoh Boniface,32289.0,Left Foot,Wayward,0.038663615,,Bayer Leverkusen,904
+8d6a08b1-8af4-4268-a9e9-15bfb8f1eb6f,3895139,10,Victor Okoh Boniface,32289.0,Right Foot,Off T,0.12989874,,Bayer Leverkusen,904
+b25cbbfb-18c1-4626-80be-243bae5dd40c,3895139,15,Jonathan Tah,8221.0,Head,Blocked,0.054101896,,Bayer Leverkusen,904
+26249219-1aaa-403d-9971-85039ac34c21,3895139,22,Alejandro Grimaldo García,10336.0,Left Foot,Goal,0.02085993,,Bayer Leverkusen,904
+be933b6b-1652-4653-9ad8-a0df5b72be37,3895139,25,Jeremie Frimpong,32712.0,Right Foot,Saved,0.36149883,,Bayer Leverkusen,904
+a3e2798c-f550-4f03-a9f1-791ef44d42e6,3895139,29,Victor Okoh Boniface,32289.0,Head,Saved,0.1880658,,Bayer Leverkusen,904
+2799a1e1-b2b5-42c8-8dd2-573e1a696241,3895139,42,Janik Haberer,8938.0,Head,Saved,0.02171633,,Union Berlin,190
+0002e561-40cf-401a-a298-61f1cce6a57c,3895139,44,Florian Wirtz,40724.0,Left Foot,Saved,0.15075712,,Bayer Leverkusen,904
+22faaec3-8a07-46eb-ae8c-fd5bddfaa545,3895139,49,Granit Xhaka,3500.0,Left Foot,Blocked,0.025693294,,Bayer Leverkusen,904
+72cb0b94-65d0-4b27-a4f5-70d88fd9fbe3,3895139,52,Aïssa Bilal Laïdouni,44955.0,Right Foot,Saved,0.017184673,,Union Berlin,190
+da7c4816-2e4a-4354-b806-7333e134e0c2,3895139,56,Odilon Kossonou,27133.0,Head,Goal,0.12228728,,Bayer Leverkusen,904
+35acdbdc-91a9-4e10-b9ca-8525154a5c3b,3895139,57,Jeremie Frimpong,32712.0,Right Foot,Saved,0.18264069,,Bayer Leverkusen,904
+1188b456-fcd1-409e-b2eb-3f2cdbc6bd92,3895139,61,Victor Okoh Boniface,32289.0,Head,Blocked,0.042420026,,Bayer Leverkusen,904
+a5f835fe-aa02-4a07-9fcb-6aa5e61c0c33,3895139,63,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.015618878,,Bayer Leverkusen,904
+14f03914-07c6-4c95-b877-970da010ce39,3895139,65,Florian Wirtz,40724.0,Right Foot,Saved,0.028427424,,Bayer Leverkusen,904
+4bf2258f-145f-43f2-b6ab-e05dac919b30,3895139,70,Jonas Hofmann,8804.0,Right Foot,Blocked,0.02942759,,Bayer Leverkusen,904
+fbf1482f-e9d6-48ee-928d-9c0f1465c514,3895139,70,Florian Wirtz,40724.0,Head,Off T,0.34232774,,Bayer Leverkusen,904
+aabcc582-0b0e-4219-b183-19d92551a4d4,3895139,72,Jonathan Tah,8221.0,Right Foot,Goal,0.035101973,,Bayer Leverkusen,904
+7ee1b993-b077-4b24-a347-eccea5858827,3895139,82,Nathan Tella,41411.0,Right Foot,Goal,0.06197454,,Bayer Leverkusen,904
+03a2f791-a051-4666-b9e0-347460161b53,3895139,84,Amine Adli,33401.0,Left Foot,Saved,0.053452987,,Bayer Leverkusen,904
+aca80b04-2892-4c4f-888e-df76c7567817,3895086,4,Victor Okoh Boniface,32289.0,Right Foot,Blocked,0.05826242,,Bayer Leverkusen,904
+bb89db40-cc3f-4041-bb40-f2dd98ec5ef4,3895086,5,Victor Okoh Boniface,32289.0,Right Foot,Blocked,0.0978509,,Bayer Leverkusen,904
+9ae80932-88a0-46c4-906a-d92d4999f5a3,3895086,5,Victor Okoh Boniface,32289.0,Right Foot,Off T,0.026264055,,Bayer Leverkusen,904
+74bd4e36-7331-453b-a774-836d5d02f062,3895086,8,Victor Okoh Boniface,32289.0,Right Foot,Goal,0.42268023,,Bayer Leverkusen,904
+57a1ff08-7356-4f00-bbef-dedd3511820f,3895086,24,Jeremie Frimpong,32712.0,Right Foot,Saved,0.06051533,,Bayer Leverkusen,904
+109c028c-0341-4fb3-a919-86e26ef8621e,3895086,25,Odilon Kossonou,27133.0,Right Foot,Off T,0.03106978,,Bayer Leverkusen,904
+5d6a2340-6590-4fe1-9c4a-50231981c1a3,3895086,29,Jonas Hofmann,8804.0,Right Foot,Off T,0.11351574,,Bayer Leverkusen,904
+db3c376e-5207-4397-9d26-ed33a83fa345,3895086,34,Florian Wirtz,40724.0,Right Foot,Blocked,0.073264666,,Bayer Leverkusen,904
+fcfa19a3-f42f-4dea-b980-b3dd0ae90bf3,3895086,34,Jonas Hofmann,8804.0,Right Foot,Saved,0.008728461,,Bayer Leverkusen,904
+4d169b29-d271-42b3-bf7f-70dca093dbbe,3895086,38,Florian Wirtz,40724.0,Right Foot,Blocked,0.16586962,,Bayer Leverkusen,904
+d170a887-1978-4914-8140-f7d35b8ff1b7,3895086,43,Tim Kleindienst,11382.0,Left Foot,Saved,0.24645855,,FC Heidenheim,201
+374675b7-0c6f-48ab-8051-9b28007f7db1,3895086,44,Victor Okoh Boniface,32289.0,Right Foot,Saved,0.34251815,,Bayer Leverkusen,904
+0ef3a93b-18c2-4b26-8ff5-6adf8579c4b1,3895086,44,Jeremie Frimpong,32712.0,Head,Wayward,0.11592275,,Bayer Leverkusen,904
+477a80b8-2b1b-401d-96d8-5115b5be49ad,3895086,44,Victor Okoh Boniface,32289.0,Right Foot,Saved,0.57920086,,Bayer Leverkusen,904
+9a7af02b-ef2b-41a2-b2fe-0c033342cef8,3895086,44,Jonas Hofmann,8804.0,Right Foot,Blocked,0.078303285,,Bayer Leverkusen,904
+f7a1cf4b-6c87-4bbe-9762-25dc35645490,3895086,56,Florian Wirtz,40724.0,Right Foot,Saved,0.034799267,,Bayer Leverkusen,904
+7fa0c22a-17d7-4517-964b-6bae5555f56d,3895086,56,Victor Okoh Boniface,32289.0,Right Foot,Off T,0.09087387,,Bayer Leverkusen,904
+2b32cd1f-7a79-4c68-a5af-72c3a0a96801,3895086,57,Eren Sami Dinkçi,67007.0,Right Foot,Goal,0.08032984,,FC Heidenheim,201
+052bab71-4157-4598-99c6-b4d22f13e110,3895086,62,Jonas Hofmann,8804.0,Right Foot,Goal,0.40078562,,Bayer Leverkusen,904
+47f57094-415a-48b6-81c9-327493fcb4a5,3895086,72,Alejandro Grimaldo García,10336.0,Right Foot,Saved,0.10766188,,Bayer Leverkusen,904
+d6ce0839-87f8-48c0-9121-87e2d1032310,3895086,73,Victor Okoh Boniface,32289.0,Right Foot,Goal,0.7835,,Bayer Leverkusen,904
+3d197463-15e7-4534-941b-998d61b05b41,3895086,76,Victor Okoh Boniface,32289.0,Right Foot,Post,0.0521231,,Bayer Leverkusen,904
+00cdf1f5-0fe3-4af6-b303-5d3742c4747b,3895086,81,Amine Adli,33401.0,Left Foot,Goal,0.06466207,,Bayer Leverkusen,904
+dc0ac988-3f23-4b8e-be6f-1342dc6679c3,3895320,5,Robert Andrich,9195.0,Left Foot,Off T,0.027028669,,Bayer Leverkusen,904
+36015584-f450-4dc3-85b1-dca672169d80,3895320,7,Jeremie Frimpong,32712.0,Right Foot,Off T,0.22501284,,Bayer Leverkusen,904
+f54ce1a1-80f6-4c99-af91-f1567e91eb62,3895320,8,Serhou Guirassy,9102.0,Right Foot,Blocked,0.01957796,,VfB Stuttgart,174
+168a1fc4-15df-4935-a619-f59490b4deb7,3895320,13,Serhou Guirassy,9102.0,Head,Off T,0.13983458,,VfB Stuttgart,174
+ada34db0-2814-449f-9d43-3e47f9452fba,3895320,19,Patrik Schick,7044.0,Left Foot,Blocked,0.07205808,,Bayer Leverkusen,904
+114ea3d5-b95a-4069-b461-c8eef8f45645,3895320,23,Patrik Schick,7044.0,Left Foot,Wayward,0.027360361,,Bayer Leverkusen,904
+c926cc03-a6cf-486a-a7a4-0842ba9bf21e,3895320,28,Alejandro Grimaldo García,10336.0,Left Foot,Saved,0.29306918,,Bayer Leverkusen,904
+1fdcee24-c37c-4e31-b1de-6f62e9fafc4b,3895320,28,Patrik Schick,7044.0,Right Foot,Off T,0.31083485,,Bayer Leverkusen,904
+ec11ccd2-e976-4b5e-be7b-958599a7a146,3895320,44,Robert Andrich,9195.0,Right Foot,Saved,0.011808117,,Bayer Leverkusen,904
+77d729d7-8cde-43cf-aedc-e71c4139f936,3895320,46,Robert Andrich,9195.0,Right Foot,Off T,0.06304603,,Bayer Leverkusen,904
+7e4d4936-3378-4057-98d3-d0e568602c9a,3895320,46,Jamie Leweling,28805.0,Right Foot,Saved to Post,0.111039735,,VfB Stuttgart,174
+8e4d3039-8e22-47c7-a95b-72baff1f02e6,3895320,46,Chris Führich,23614.0,Left Foot,Goal,0.08203193,,VfB Stuttgart,174
+09470a4a-0a07-46d3-9d7a-56653fa1f94a,3895320,48,Serhou Guirassy,9102.0,Right Foot,Blocked,0.017944433,,VfB Stuttgart,174
+d774052f-3abc-496e-bdf7-260e7b073e74,3895320,55,Leonidas Stergiou,29227.0,Right Foot,Off T,0.020028373,,VfB Stuttgart,174
+6486e238-35d2-499e-a4d3-a3f3cf051f41,3895320,56,Deniz Undav,131243.0,Right Foot,Goal,0.0791097,,VfB Stuttgart,174
+d3567d87-4349-4137-be2c-465cea99f536,3895320,58,Serhou Guirassy,9102.0,Right Foot,Off T,0.20463334,,VfB Stuttgart,174
+1c715553-ddc6-47ca-8cd3-b47a22b98998,3895320,60,Amine Adli,33401.0,Left Foot,Goal,0.060058244,,Bayer Leverkusen,904
+c41b4539-631d-46a9-bf7b-969c0a8a06a3,3895320,64,Amine Adli,33401.0,Left Foot,Saved,0.056869425,,Bayer Leverkusen,904
+8ce85e91-7595-4105-b1b9-fbef9a514cbb,3895320,64,Jonas Hofmann,8804.0,Left Foot,Saved,0.19331166,,Bayer Leverkusen,904
+469fb32d-eee2-42ac-a5f7-f41fce3ab06a,3895320,66,Edmond Fayçal Tapsoba,30606.0,Right Foot,Off T,0.034692705,,Bayer Leverkusen,904
+c9c21a0c-8bf4-4ac5-9751-191b24ff6492,3895320,70,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.06547359,,Bayer Leverkusen,904
+a3dc8018-d649-4108-9b8c-046e5fae0e69,3895320,71,Serhou Guirassy,9102.0,Right Foot,Off T,0.6227633,,VfB Stuttgart,174
+fb83bc78-568b-43d4-9546-ac7e3ca97b89,3895320,72,Chris Führich,23614.0,Right Foot,Off T,0.07298914,,VfB Stuttgart,174
+324003fe-d05f-4b5e-b334-d298bee6d0dc,3895320,86,Serhou Guirassy,9102.0,Left Foot,Saved,0.42948982,,VfB Stuttgart,174
+815b0d8f-5e2f-4186-975e-1d6b3034e4ce,3895320,95,Robert Andrich,9195.0,Left Foot,Goal,0.2119004,,Bayer Leverkusen,904
+cb5393d7-7266-47d9-8f01-6f5b2e29f18b,3895309,0,Jeremie Frimpong,32712.0,Right Foot,Off T,0.0075281602,,Bayer Leverkusen,904
+8dd06075-7ff3-451c-b6b8-1c7303b93a7a,3895309,7,Jeremie Frimpong,32712.0,Head,Off T,0.27050674,,Bayer Leverkusen,904
+ae41d0bf-149b-47ec-9d30-59ffe0585f84,3895309,13,Jonas Hofmann,8804.0,Right Foot,Off T,0.017508581,,Bayer Leverkusen,904
+631c3f0c-6282-4017-8a95-bf51eee568c7,3895309,15,Julian Ryerson,12387.0,Right Foot,Off T,0.028324867,,Borussia Dortmund,180
+9535f582-60c4-40be-bcd8-4ac32a484866,3895309,16,Jamie Jermaine Bynoe-Gittens,161995.0,Right Foot,Blocked,0.026290877,,Borussia Dortmund,180
+6d6b9bdf-4012-44eb-a865-f50a0756ac6a,3895309,20,Nathan Tella,41411.0,Head,Wayward,0.06545268,,Bayer Leverkusen,904
+ca418807-ef27-44e8-8bac-fb8d7363c7a3,3895309,35,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.026485367,,Bayer Leverkusen,904
+d0f1337b-e701-40c7-b79f-93fdb139fca8,3895309,37,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.067027844,,Bayer Leverkusen,904
+e8ebf24b-5eee-410b-80e1-8decca19e418,3895309,41,Marcel Sabitzer,8518.0,Right Foot,Saved,0.07954783,,Borussia Dortmund,180
+eabd44ea-9133-4a5e-8ac7-563b30de1ffe,3895309,42,Nathan Tella,41411.0,Left Foot,Wayward,0.037061095,,Bayer Leverkusen,904
+40266052-a4ee-4733-86c2-65f96150f469,3895309,46,Emre Can,3493.0,Head,Wayward,0.14243458,,Borussia Dortmund,180
+3787c25a-e68d-4ba6-8abe-50d39fec9efa,3895309,50,Marcel Sabitzer,8518.0,Right Foot,Blocked,0.038273443,,Borussia Dortmund,180
+f8da9690-b3a6-47d8-bdff-f980e6e496fc,3895309,50,Marius Wolf,9410.0,Right Foot,Blocked,0.05357171,,Borussia Dortmund,180
+cd1b1b5f-4444-4fba-8a0e-0990fdda83a7,3895309,53,Nathan Tella,41411.0,Right Foot,Off T,0.031657387,,Bayer Leverkusen,904
+b025e09d-0410-4c9d-878a-96ed0e6da90a,3895309,54,Jamie Jermaine Bynoe-Gittens,161995.0,Left Foot,Blocked,0.022094969,,Borussia Dortmund,180
+e6985eba-993d-4164-ad9e-5cee358f8916,3895309,56,Alejandro Grimaldo García,10336.0,Left Foot,Saved,0.008364713,,Bayer Leverkusen,904
+bf52cf72-7765-4da6-8ac0-38d2fa7b68ee,3895309,67,Nathan Tella,41411.0,Left Foot,Saved,0.66548026,,Bayer Leverkusen,904
+4da1beec-972a-4986-8720-da71780eceb4,3895309,74,Jeremie Frimpong,32712.0,Right Foot,Off T,0.014592174,,Bayer Leverkusen,904
+8ea46342-1342-466b-bc1a-a33c8bf706b8,3895309,80,Niclas Füllkrug,8546.0,Right Foot,Goal,0.16429694,,Borussia Dortmund,180
+e3c2d7a0-01a0-4e36-b443-91a5476b598a,3895309,96,Alejandro Grimaldo García,10336.0,Left Foot,Saved Off Target,0.035902303,,Bayer Leverkusen,904
+6333f948-763d-442d-9a16-b14d1c6aeb0d,3895309,96,Josip Stanišić,49337.0,Head,Goal,0.11654504,,Bayer Leverkusen,904
+df860089-0e1c-4262-9f27-c30e8511f4a0,3895258,2,Jonas Hofmann,8804.0,Right Foot,Off T,0.09465459,,Bayer Leverkusen,904
+5e103867-0e49-412e-a396-9795ce9c7c17,3895258,10,Dejan Ljubicic,8623.0,Head,Off T,0.19827367,,FC Köln,186
+7d827fcc-5473-49e5-ad82-3ce7b969c17b,3895258,21,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.053792328,,Bayer Leverkusen,904
+69077479-a638-4838-b54c-8e918a5350ad,3895258,24,Jeremie Frimpong,32712.0,Left Foot,Blocked,0.04683825,,Bayer Leverkusen,904
+3c231f08-f99b-48c6-b5bd-684f31a4ee14,3895258,30,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.012014611,,Bayer Leverkusen,904
+afce3d7d-101d-4c3d-a8e4-245736554042,3895258,34,Sargis Adamyan,9125.0,Right Foot,Blocked,0.08320751,,FC Köln,186
+54b69050-a308-4011-8cb5-e0f5d1ef5413,3895258,36,Florian Wirtz,40724.0,Right Foot,Saved,0.025314098,,Bayer Leverkusen,904
+f466b13f-5057-408a-aeb1-a222d128ba22,3895258,36,Patrik Schick,7044.0,Left Foot,Blocked,0.06703878,,Bayer Leverkusen,904
+95c4ead2-38ea-4a5e-a973-d705a0552b18,3895258,36,Jeremie Frimpong,32712.0,Right Foot,Goal,0.589061,,Bayer Leverkusen,904
+3aa1c41c-d7d7-4fa5-9071-3492d7801027,3895258,40,Florian Wirtz,40724.0,Right Foot,Saved,0.018504012,,Bayer Leverkusen,904
+3db970ca-3036-47db-a944-f3a29dcbfa46,3895258,43,Sargis Adamyan,9125.0,Head,Blocked,0.05918359,,FC Köln,186
+f2b1695d-5dea-4804-be0d-8a4d4da0f618,3895258,48,Faride Alidou,134880.0,Head,Off T,0.06454638,,FC Köln,186
+cec17da9-4e5b-41af-b95e-e76138a436a6,3895258,48,Timo Hübers,35637.0,Head,Wayward,0.03799639,,FC Köln,186
+8cbdf3af-c114-478e-8525-d493bf7b7407,3895258,50,Sargis Adamyan,9125.0,Right Foot,Post,0.24320579,,FC Köln,186
+6a352f47-6485-4163-a802-9f817fafae08,3895258,51,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.025937038,,Bayer Leverkusen,904
+5c583506-8bd9-4dcb-a300-90df976b806a,3895258,53,Alejandro Grimaldo García,10336.0,Head,Wayward,0.0325437,,Bayer Leverkusen,904
+bb4c3ea2-0278-4be9-b803-262116e98b43,3895258,54,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.022162419,,Bayer Leverkusen,904
+434417ed-5698-4a29-9936-358cc3b66708,3895258,56,Patrik Schick,7044.0,Head,Wayward,0.05361262,,Bayer Leverkusen,904
+b5ae28c3-cb20-493d-b682-f626840932d4,3895258,72,Alejandro Grimaldo García,10336.0,Left Foot,Goal,0.07883965,,Bayer Leverkusen,904
+6fe5f4b6-f7c3-44c1-b4bd-95ed3f7b55c1,3895258,75,Nathan Tella,41411.0,Right Foot,Blocked,0.056193374,,Bayer Leverkusen,904
+c6eb6107-09bc-47fd-9f30-da9955b7d608,3895258,76,Florian Wirtz,40724.0,Right Foot,Saved,0.02803977,,Bayer Leverkusen,904
+b5b6cc88-4ee2-44ad-bb7e-a2ea8e358883,3895258,81,Florian Wirtz,40724.0,Right Foot,Blocked,0.048773732,,Bayer Leverkusen,904
+409661d0-a947-4255-a640-1776ac1ede23,3895258,83,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.040050685,,Bayer Leverkusen,904
+e117102c-d4c1-4610-ab08-c7877441d742,3895244,3,Florian Wirtz,40724.0,Right Foot,Saved,0.09992166,,Bayer Leverkusen,904
+360afde3-2360-417f-b287-f7019b84680b,3895244,8,Robert Andrich,9195.0,Left Foot,Blocked,0.04071183,,Bayer Leverkusen,904
+a7463583-f8f4-412f-88d2-c7c834a4105d,3895244,14,Jeremie Frimpong,32712.0,Right Foot,Blocked,0.02349934,,Bayer Leverkusen,904
+645eb80a-ff4a-433f-be95-e2e6378900c8,3895244,18,Patrik Schick,7044.0,Left Foot,Off T,0.08212698,,Bayer Leverkusen,904
+aa0325e3-4158-4f49-8025-7ea3464a7c15,3895244,21,Robert Andrich,9195.0,Head,Wayward,0.05730636,,Bayer Leverkusen,904
+61796fa6-51f2-4327-9a4a-8ce3061138fb,3895244,33,Piero Martín Hincapié Reyna,38004.0,Head,Wayward,0.023191312,,Bayer Leverkusen,904
+d8e07983-4d93-4873-9be6-c792494f4a0b,3895244,35,Tim Kleindienst,11382.0,Left Foot,Off T,0.075381435,,FC Heidenheim,201
+ad530050-f93b-472f-bb7f-893084f82c0b,3895244,45,Patrik Schick,7044.0,Head,Blocked,0.04577166,,Bayer Leverkusen,904
+416d171b-26e6-4111-b70b-90bf1739ec2a,3895244,46,Jeremie Frimpong,32712.0,Left Foot,Goal,0.191014,,Bayer Leverkusen,904
+d5e04f50-0f60-4708-bde1-759f1d0f5894,3895244,49,Jeremie Frimpong,32712.0,Left Foot,Blocked,0.03818213,,Bayer Leverkusen,904
+00a88c45-9765-4c30-9334-b903240a08b1,3895244,49,Alejandro Grimaldo García,10336.0,Right Foot,Blocked,0.05416238,,Bayer Leverkusen,904
+73ad5c99-6b0b-4885-b952-7fc60573d9b7,3895244,50,Jeremie Frimpong,32712.0,Left Foot,Off T,0.036521208,,Bayer Leverkusen,904
+ab1a517d-8cb2-46c2-8d50-8229e8ff3f25,3895244,52,Omar Haktab Traorè,48959.0,Right Foot,Off T,0.008326631,,FC Heidenheim,201
+1995f196-873a-41a9-82cb-4d02f9820485,3895244,55,Amine Adli,33401.0,Right Foot,Off T,0.12802543,,Bayer Leverkusen,904
+1ee26247-cd77-4b6b-9893-32cfd4186fef,3895244,57,Nikola Dovedan,9201.0,Left Foot,Saved,0.056982346,,FC Heidenheim,201
+3b0f8177-43ab-4849-88a7-3a32b82e13f2,3895244,60,Jeremie Frimpong,32712.0,Right Foot,Off T,0.0645191,,Bayer Leverkusen,904
+068e0faa-76eb-45c0-b593-2fe4d67593e7,3895244,67,Granit Xhaka,3500.0,Left Foot,Blocked,0.04768445,,Bayer Leverkusen,904
+b081e222-4b4b-4975-aec2-27d9496731d0,3895244,69,Benedikt Gimber,9110.0,Left Foot,Saved,0.06789194,,FC Heidenheim,201
+ae98e156-abf9-446b-9dcc-a3e9445fb2ed,3895244,74,Jeremie Frimpong,32712.0,Right Foot,Off T,0.10000266,,Bayer Leverkusen,904
+56a9f9f7-e9be-476d-bbff-f585f20f6a71,3895244,76,Florian Wirtz,40724.0,Right Foot,Post,0.14015244,,Bayer Leverkusen,904
+8fe955ff-ad93-4899-afc5-d63cb51105b6,3895244,80,Borja Iglesias Quintas,11391.0,Right Foot,Blocked,0.024886785,,Bayer Leverkusen,904
+0f521099-6066-4bcc-9c17-86c9e8df453e,3895244,80,Amine Adli,33401.0,Left Foot,Goal,0.6213816,,Bayer Leverkusen,904
+20d09554-c1b8-4608-9515-0213f3b8c62e,3895244,83,Florian Pick,48860.0,Right Foot,Blocked,0.025234042,,FC Heidenheim,201
+724eb065-1c4c-4fbf-966c-db30b21fd46f,3895244,85,Tim Kleindienst,11382.0,Head,Goal,0.22344579,,FC Heidenheim,201
+214a0940-1a3e-4c80-8769-558561d3bdb9,3895232,10,Amine Adli,33401.0,Left Foot,Saved,0.067980394,,Bayer Leverkusen,904
+163cf78e-60f8-48b2-bf71-d6627485237b,3895232,12,Leon Goretzka,6324.0,Right Foot,Off T,0.093323134,,Bayern Munich,169
+b1eb5bd8-29a5-4595-8851-7fab15cd4580,3895232,17,Josip Stanišić,49337.0,Right Foot,Goal,0.32476836,,Bayer Leverkusen,904
+347c50d3-0976-4531-935e-1603068c7171,3895232,22,Nathan Tella,41411.0,Right Foot,Saved,0.08542998,,Bayer Leverkusen,904
+4243308a-98d5-4606-878c-b24f7e3d6436,3895232,22,Florian Wirtz,40724.0,Right Foot,Blocked,0.07725087,,Bayer Leverkusen,904
+829cc5d9-e15e-452e-a0ee-4ddb80b0f7a1,3895232,22,Jonathan Tah,8221.0,Head,Saved,0.04810058,,Bayer Leverkusen,904
+ba681c4c-f520-4c50-baa6-ab762c963a61,3895232,23,Robert Andrich,9195.0,Head,Blocked,0.049609818,,Bayer Leverkusen,904
+bcf90006-e118-415c-8157-453385e3a139,3895232,26,Noussair Mazraoui,15890.0,Left Foot,Saved,0.030153356,,Bayern Munich,169
+0b4667fc-257b-4538-b85b-ab5f9f8c1643,3895232,36,Granit Xhaka,3500.0,Right Foot,Wayward,0.02057064,,Bayer Leverkusen,904
+6f4e27cf-73d8-42da-934e-affa6c5679c9,3895232,36,Amine Adli,33401.0,Head,Saved,0.0526198,,Bayer Leverkusen,904
+323dd7b9-279d-43b7-a7ed-df9976366da8,3895232,40,Piero Martín Hincapié Reyna,38004.0,Left Foot,Off T,0.028523209,,Bayer Leverkusen,904
+6821fae4-b30e-4730-918b-48000cdc6912,3895232,42,Leroy Sané,3053.0,Left Foot,Off T,0.08916859,,Bayern Munich,169
+330f17c4-2155-40b4-ba0c-7cfe8dded159,3895232,49,Alejandro Grimaldo García,10336.0,Left Foot,Goal,0.15563484,,Bayer Leverkusen,904
+2bc65d8b-9c49-4065-b4dd-e6054d882002,3895232,51,Sacha Boey,24946.0,Left Foot,Off T,0.22735669,,Bayern Munich,169
+42d1a571-12fb-402e-a71f-c97406e1e607,3895232,58,Nathan Tella,41411.0,Right Foot,Saved,0.01002003,,Bayer Leverkusen,904
+ef459c14-d01c-4667-ab29-c11660c46821,3895232,66,Leon Goretzka,6324.0,Head,Blocked,0.021585725,,Bayern Munich,169
+ec3f1d2e-f76b-4318-a06e-19c66e379273,3895232,69,Jamal Musiala,39565.0,Right Foot,Blocked,0.046734728,,Bayern Munich,169
+66d26935-f0c5-4574-af05-2223f780e8b5,3895232,72,Jeremie Frimpong,32712.0,Right Foot,Off T,0.05841828,,Bayer Leverkusen,904
+3d002acd-208b-46bf-ab1d-184768bf5283,3895232,78,Harry Kane,10955.0,Right Foot,Blocked,0.03253544,,Bayern Munich,169
+74ebae15-5136-4c0f-8808-e9dee3bd0d82,3895232,81,Mathys Tel,44737.0,Head,Off T,0.039185528,,Bayern Munich,169
+55e837dd-be46-4bac-b71d-9cebc57c893d,3895232,83,Mathys Tel,44737.0,Right Foot,Wayward,0.038074218,,Bayern Munich,169
+a38faed5-995c-4dbb-9216-76345fef3cc1,3895232,87,Jeremie Frimpong,32712.0,Right Foot,Saved to Post,0.045614313,,Bayer Leverkusen,904
+57cf2298-1d5f-4ddc-b495-a7c5a1293725,3895232,94,Jeremie Frimpong,32712.0,Right Foot,Goal,0.009305765,,Bayer Leverkusen,904
+e569c7ae-0ac3-45cd-9aae-f049a03428f7,3895210,4,Nadiem Amiri,8403.0,Right Foot,Saved,0.009047964,,Bayer Leverkusen,904
+6807107f-cda7-4197-b8a2-bfa3fa3e14fa,3895210,7,Patrik Schick,7044.0,Left Foot,Blocked,0.051984634,,Bayer Leverkusen,904
+124c48e0-e083-4fee-9f6d-c1e9fe5eefcd,3895210,11,Josip Stanišić,49337.0,Right Foot,Blocked,0.022191128,,Bayer Leverkusen,904
+0bcb7edd-0d2e-45d9-a2eb-695e15a30e56,3895210,17,Jonas Hofmann,8804.0,Right Foot,Saved,0.06481088,,Bayer Leverkusen,904
+a0f8cecf-9282-4671-b2d7-caa400ebbc95,3895210,18,Florian Wirtz,40724.0,Right Foot,Off T,0.024915434,,Bayer Leverkusen,904
+e828dd71-67f6-4e72-86fd-d883032004ef,3895210,21,Luca Netz,40943.0,Right Foot,Saved,0.06472163,,Borussia Mönchengladbach,185
+87919f54-9bbd-4166-8b87-69671048ff7c,3895210,22,Florian Wirtz,40724.0,Right Foot,Saved,0.44135413,,Bayer Leverkusen,904
+8e08805a-6516-4ce6-b856-75e3e8169499,3895210,23,Josip Stanišić,49337.0,Head,Saved,0.08233791,,Bayer Leverkusen,904
+52a6660d-96ce-42bf-97bc-b6eb01ccd5e4,3895210,24,Florian Wirtz,40724.0,Right Foot,Blocked,0.023665518,,Bayer Leverkusen,904
+805033d1-301e-4dc5-baad-542dab282ff4,3895210,24,Patrik Schick,7044.0,Left Foot,Off T,0.12889346,,Bayer Leverkusen,904
+a407ad67-099a-4480-9b5e-fdae8ad47705,3895210,26,Florian Neuhaus,12323.0,Left Foot,Saved,0.038628068,,Borussia Mönchengladbach,185
+26d5cc13-011f-4d05-b574-c8d779ccc723,3895210,28,Robin Hack,11399.0,Right Foot,Blocked,0.062127307,,Borussia Mönchengladbach,185
+4c7aa12c-69e7-4c75-9417-c40d6c03b917,3895210,31,Kouadio Emmanuel Koné,25040.0,Right Foot,Saved,0.018197801,,Borussia Mönchengladbach,185
+53ce4532-f4e8-4405-ba9d-97cc86cfbe10,3895210,36,Florian Wirtz,40724.0,Right Foot,Saved,0.034224097,,Bayer Leverkusen,904
+439065d1-ad52-4d1e-8739-dc8eadd99312,3895210,39,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.040416725,,Bayer Leverkusen,904
+50082789-7bb3-4919-aeaa-38b0f575fa52,3895210,45,Jonas Hofmann,8804.0,Right Foot,Saved,0.056421287,,Bayer Leverkusen,904
+e40c5604-86a5-4708-aa38-025385f81d26,3895210,53,Jonas Hofmann,8804.0,Left Foot,Wayward,0.12546636,,Bayer Leverkusen,904
+1255ee6c-125c-4ad0-bee3-9c8f6e2116a5,3895210,54,Nadiem Amiri,8403.0,Right Foot,Saved,0.026898004,,Bayer Leverkusen,904
+0cb17af2-dcd3-485a-9ca5-befb6e634f00,3895210,56,Jeremie Frimpong,32712.0,Left Foot,Off T,0.29035935,,Bayer Leverkusen,904
+39eaab58-b7b2-4ca4-9fa4-50eb871b7101,3895210,57,Jonas Hofmann,8804.0,Right Foot,Blocked,0.036461674,,Bayer Leverkusen,904
+916a4a46-5823-444d-9472-213c4104fa8e,3895210,59,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.15354185,,Bayer Leverkusen,904
+ac9967b4-f720-4a0c-9505-abd47ae6ae13,3895210,64,Granit Xhaka,3500.0,Left Foot,Blocked,0.019440634,,Bayer Leverkusen,904
+13b84dff-8265-494a-8cb7-ed3d14a17f00,3895210,68,Jonas Hofmann,8804.0,Left Foot,Blocked,0.05091942,,Bayer Leverkusen,904
+d75a9f04-2133-444b-8f8f-a08ceb25a858,3895210,68,Nathan Tella,41411.0,Right Foot,Blocked,0.02932745,,Bayer Leverkusen,904
+0d31867c-3cd9-48fe-8549-1be0a48ede76,3895210,71,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.023267351,,Bayer Leverkusen,904
+634fa2d4-46bb-4b8b-8ce9-34637603d0d5,3895210,78,Josip Stanišić,49337.0,Right Foot,Off T,0.027891,,Bayer Leverkusen,904
+f80ee030-3e40-433f-ac02-7b1c011bea84,3895210,83,Jeremie Frimpong,32712.0,Right Foot,Wayward,0.08202779,,Bayer Leverkusen,904
+5b8908e9-865e-46b1-b1df-5b8f6c4b9056,3895210,88,Patrik Schick,7044.0,Head,Off T,0.15246792,,Bayer Leverkusen,904
+0ea4e208-097f-498b-bfbc-2a39cf755f19,3895210,91,Adam Hložek,28239.0,Right Foot,Blocked,0.04828327,,Bayer Leverkusen,904
+8278ca04-b002-4e54-9f39-ad616c3c4ea4,3895210,91,Nathan Tella,41411.0,Right Foot,Saved,0.41927636,,Bayer Leverkusen,904
+c3871fef-f58b-4401-be6e-76f47a795c4e,3895210,93,Adam Hložek,28239.0,Head,Saved,0.06949777,,Bayer Leverkusen,904
+87010125-117a-4571-a62b-4345f4885d70,3895210,94,Robert Andrich,9195.0,Right Foot,Off T,0.025872136,,Bayer Leverkusen,904
+9e3cfa22-8c46-42c2-9e11-3391146361e1,3895202,4,Ikoma Loïs Openda,16275.0,Left Foot,Saved,0.031237809,,RB Leipzig,182
+8e5a686b-1115-4ba2-9d63-04cb38e685c9,3895202,5,Granit Xhaka,3500.0,Left Foot,Off T,0.029031394,,Bayer Leverkusen,904
+d8ed50f7-263e-48bb-9ba4-60808125f244,3895202,6,Xavi Simons,39167.0,Left Foot,Goal,0.069489375,,RB Leipzig,182
+fe2172ef-7a73-4e4f-9cef-9319d0ffb183,3895202,8,Benjamin Šeško,38759.0,Right Foot,Off T,0.3180332,,RB Leipzig,182
+acbfb3a8-6469-4ab0-b391-c1308e661799,3895202,9,Florian Wirtz,40724.0,Right Foot,Blocked,0.047096375,,Bayer Leverkusen,904
+321353c2-c27e-4211-80a3-cf62da6225ea,3895202,13,Daniel Olmo Carvajal,16532.0,Right Foot,Off T,0.03687667,,RB Leipzig,182
+5afd308d-6741-4af4-8cb4-463c5d8c8e4e,3895202,21,Mohamed Simakan,30360.0,Right Foot,Saved,0.019126728,,RB Leipzig,182
+1c5d0062-886e-421a-bec9-829d9e780fca,3895202,21,Mohamed Simakan,30360.0,Right Foot,Saved,0.0786111,,RB Leipzig,182
+f26e400c-f1e4-4293-a3cd-ad4705a38e8f,3895202,26,Exequiel Alejandro Palacios,28268.0,Right Foot,Off T,0.045703232,,Bayer Leverkusen,904
+f2e5963e-6bf6-4d29-8b23-0e736213300b,3895202,30,Jonas Hofmann,8804.0,Right Foot,Off T,0.02334218,,Bayer Leverkusen,904
+076cd6ba-eb1f-4ab5-9fcc-cd2fe8242a03,3895202,36,Patrik Schick,7044.0,Head,Blocked,0.073806174,,Bayer Leverkusen,904
+771aded9-3ecb-4689-af7a-d04feae9b35c,3895202,41,Benjamin Šeško,38759.0,Left Foot,Blocked,0.041268345,,RB Leipzig,182
+c554ca99-a058-4c2a-aee1-e6db783bd159,3895202,47,Patrik Schick,7044.0,Left Foot,Blocked,0.020508459,,Bayer Leverkusen,904
+34b7332c-6c9a-418d-8b9d-8e7051e4eb1c,3895202,46,Nathan Tella,41411.0,Right Foot,Goal,0.7886074,,Bayer Leverkusen,904
+026b70bb-f466-414f-ab42-ea78913ed33f,3895202,52,Patrik Schick,7044.0,Left Foot,Off T,0.08268725,,Bayer Leverkusen,904
+6399ab69-693b-4133-9db8-5fa356ff7ff2,3895202,54,Florian Wirtz,40724.0,Right Foot,Saved,0.068974085,,Bayer Leverkusen,904
+9f6e2212-3730-4628-83bd-bd3f9bcab98f,3895202,55,Ikoma Loïs Openda,16275.0,Left Foot,Goal,0.24252231,,RB Leipzig,182
+eb2d9f33-5c58-4680-9fa9-dc4afe544ada,3895202,58,Benjamin Šeško,38759.0,Right Foot,Saved,0.062448468,,RB Leipzig,182
+cfc2c881-aa53-456f-b264-f07e54c71e50,3895202,62,Jonathan Tah,8221.0,Head,Goal,0.18319073,,Bayer Leverkusen,904
+d24074ce-8755-464b-a571-1410e818c108,3895202,67,Florian Wirtz,40724.0,Right Foot,Off T,0.053576183,,Bayer Leverkusen,904
+abc0866f-3aa9-48da-93e3-76607762379a,3895202,68,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.02492347,,Bayer Leverkusen,904
+df71ee04-432b-440b-adad-14ef9d72d70c,3895202,72,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.044024237,,Bayer Leverkusen,904
+93d904b6-833f-44af-9510-4e4992a6b508,3895202,79,Piero Martín Hincapié Reyna,38004.0,Head,Wayward,0.05831537,,Bayer Leverkusen,904
+c1195253-9cf3-4e90-9ea8-a08cda44619b,3895202,82,Piero Martín Hincapié Reyna,38004.0,Left Foot,Blocked,0.053494915,,Bayer Leverkusen,904
+47548962-cb46-43f1-b770-c92667223c10,3895202,82,Piero Martín Hincapié Reyna,38004.0,Left Foot,Saved,0.03944763,,Bayer Leverkusen,904
+9f68d00c-90ef-4d5c-94dd-cf221ca29534,3895202,84,Josip Stanišić,49337.0,Head,Off T,0.062444646,,Bayer Leverkusen,904
+060082ee-d0e7-4741-b1d3-3ff14f6adb90,3895202,90,Piero Martín Hincapié Reyna,38004.0,Left Foot,Goal,0.18142767,,Bayer Leverkusen,904
+316ea464-b81a-4ad9-aab2-ed5832b1494a,3895202,93,Benjamin Henrichs,8211.0,Head,Off T,0.18715149,,RB Leipzig,182
+d20c27c7-d772-47c0-ae7b-fe63eb2af300,3895194,11,Ruben Vargas,30401.0,Right Foot,Off T,0.030362273,,Augsburg,172
+560da675-73de-432a-969e-11e1fccd8e3a,3895194,17,Alejandro Grimaldo García,10336.0,Left Foot,Saved,0.03629953,,Bayer Leverkusen,904
+174505c2-664a-4d98-aad9-3f1093bf795d,3895194,17,Adam Hložek,28239.0,Head,Saved,0.06208315,,Bayer Leverkusen,904
+a6e26944-86f1-4cea-bdea-7e246479d82e,3895194,21,Ermedin Demirović,6874.0,Right Foot,Off T,0.057657912,,Augsburg,172
+7b7e1a10-7f5f-4d26-b918-a562d4264294,3895194,27,Alejandro Grimaldo García,10336.0,Left Foot,Post,0.02559302,,Bayer Leverkusen,904
+bad58b17-fb47-40b0-ad9e-f04f7d971e32,3895194,31,Jonas Hofmann,8804.0,Right Foot,Blocked,0.12362787,,Bayer Leverkusen,904
+dd1bd9b5-ad51-48ec-97e2-27727f544625,3895194,31,Granit Xhaka,3500.0,Left Foot,Off T,0.033858515,,Bayer Leverkusen,904
+7fc54483-0625-42fa-8a49-37383ace9c9f,3895194,33,Patrik Schick,7044.0,Head,Saved,0.11429135,,Bayer Leverkusen,904
+bc85f688-dd48-4aea-bb30-7ff754bd9b98,3895194,36,Robert Andrich,9195.0,Head,Saved,0.13132846,,Bayer Leverkusen,904
+6d0ab57b-d0e7-4ae5-9830-f24244853ce6,3895194,37,Phillip Tietz,9221.0,Right Foot,Off T,0.12377237,,Augsburg,172
+e52f4b8a-c11c-43b3-8949-d5998cdf7dfe,3895194,41,Adam Hložek,28239.0,Head,Blocked,0.032383747,,Bayer Leverkusen,904
+90b6bc5e-e4b7-4b30-a33c-c5611d3809d9,3895194,42,Exequiel Alejandro Palacios,28268.0,Right Foot,Off T,0.019969188,,Bayer Leverkusen,904
+f269332e-c496-4288-899f-8d3f3652d77e,3895194,47,Ermedin Demirović,6874.0,Right Foot,Off T,0.10407155,,Augsburg,172
+ffe0cb9e-1d53-4cf5-9e08-b1b3f21d3911,3895194,47,Exequiel Alejandro Palacios,28268.0,Right Foot,Off T,0.028836275,,Bayer Leverkusen,904
+275da5de-6ced-4def-a639-fdea406c8308,3895194,49,Exequiel Alejandro Palacios,28268.0,Right Foot,Off T,0.020382116,,Bayer Leverkusen,904
+00f53aeb-19e1-4a97-8826-45cf676596bd,3895194,52,Granit Xhaka,3500.0,Left Foot,Blocked,0.033889998,,Bayer Leverkusen,904
+eccb00bb-acf3-4788-a4cb-57d617fd57f4,3895194,53,Granit Xhaka,3500.0,Head,Off T,0.037826136,,Bayer Leverkusen,904
+f87cf155-1404-4e36-add7-a2165c38b209,3895194,56,Piero Martín Hincapié Reyna,38004.0,Left Foot,Blocked,0.027110409,,Bayer Leverkusen,904
+97e00f1c-8693-464e-a7a4-fcf06568f5bc,3895194,58,Patrik Schick,7044.0,Head,Off T,0.16485377,,Bayer Leverkusen,904
+ba78d598-fa40-4f9a-b5fa-5d60a6cf9663,3895194,64,Patrik Schick,7044.0,Left Foot,Blocked,0.0394539,,Bayer Leverkusen,904
+c6cfad25-1b20-41e4-b1e8-f4e04e00f917,3895194,64,Jeremie Frimpong,32712.0,Right Foot,Off T,0.047103617,,Bayer Leverkusen,904
+c4836e8b-b534-4415-bf62-39cbe5f3bd11,3895194,66,Piero Martín Hincapié Reyna,38004.0,Head,Off T,0.08122217,,Bayer Leverkusen,904
+9dd32137-bc45-4746-be89-cde55a2ba02a,3895194,68,Florian Wirtz,40724.0,Right Foot,Post,0.112848714,,Bayer Leverkusen,904
+d5c2a615-ca75-4be8-ac0c-2242345456a1,3895194,70,Patrik Schick,7044.0,Left Foot,Blocked,0.12957473,,Bayer Leverkusen,904
+b41aeef4-5600-4587-9c86-b9b4deda1e14,3895194,75,Alejandro Grimaldo García,10336.0,Head,Blocked,0.06683657,,Bayer Leverkusen,904
+d98fec59-0de2-4cc0-8664-50c218404e83,3895194,81,Jeremie Frimpong,32712.0,Right Foot,Off T,0.04399584,,Bayer Leverkusen,904
+d52d42f9-4699-4562-b4d5-a0007613f9c8,3895194,87,Jonas Hofmann,8804.0,Right Foot,Saved,0.03425886,,Bayer Leverkusen,904
+6da40aea-5006-4902-ac28-d3aa2b9addfe,3895194,88,Florian Wirtz,40724.0,Right Foot,Blocked,0.030040901,,Bayer Leverkusen,904
+edf76979-b202-4ab7-9f07-2fc046885c2d,3895194,93,Exequiel Alejandro Palacios,28268.0,Left Foot,Goal,0.097868256,,Bayer Leverkusen,904
+42bda4c0-9f43-4dd1-b2c0-03ee953bd8df,3895182,9,Christopher Antwi-Adjej,9230.0,Right Foot,Blocked,0.06309424,,Bochum,868
+27037aa8-470a-4626-8f97-026d8c84b185,3895182,10,Florian Wirtz,40724.0,Right Foot,Blocked,0.10643516,,Bayer Leverkusen,904
+15bd7661-6cd7-4f35-8fcb-52fd75a963b9,3895182,13,Gonçalo Mendes Paciencia,23498.0,Left Foot,Blocked,0.05048838,,Bochum,868
+a3559012-965d-4e0a-85a6-adc735b1780c,3895182,14,Matúš Bero,15546.0,Left Foot,Blocked,0.028390592,,Bochum,868
+b15b2cbf-ce2b-4b50-9001-a8ddf67bee49,3895182,23,Bernardo Fernandes da Silva Junior,8960.0,Head,Saved,0.045845725,,Bochum,868
+a80e47de-35cc-47a4-8ad3-767836b010c6,3895182,29,Patrik Schick,7044.0,Left Foot,Goal,0.7835,,Bayer Leverkusen,904
+2b2439b6-9828-4dbe-b3ac-9adb41da1b1d,3895182,31,Patrik Schick,7044.0,Left Foot,Goal,0.30500692,,Bayer Leverkusen,904
+cc3427d0-a618-49a5-84bf-b9b2c79c4d6c,3895182,33,Jeremie Frimpong,32712.0,Right Foot,Saved,0.10313727,,Bayer Leverkusen,904
+38e5bc9c-78c1-417a-81a2-42479d4569e6,3895182,34,Piero Martín Hincapié Reyna,38004.0,Head,Blocked,0.15088059,,Bayer Leverkusen,904
+5fbe5edf-bfaa-4257-ad5a-220d8a9bb8da,3895182,40,Patrik Schick,7044.0,Left Foot,Off T,0.13148005,,Bayer Leverkusen,904
+17f17d10-0361-43dd-95e8-62d119453f99,3895182,41,Jonas Hofmann,8804.0,Right Foot,Saved,0.077682205,,Bayer Leverkusen,904
+db9ae937-6b5c-4f90-8b47-fdf4f27786d5,3895182,42,Alejandro Grimaldo García,10336.0,Right Foot,Off T,0.4563931,,Bayer Leverkusen,904
+74ba22d6-f06f-483f-b861-63f90580fbe4,3895182,45,Patrik Schick,7044.0,Head,Goal,0.14864361,,Bayer Leverkusen,904
+131c21d9-f342-43b5-8de9-a0699b54aacd,3895182,48,Anthony Losilla,9089.0,Head,Blocked,0.04213696,,Bochum,868
+8ae9d212-2ada-45b7-8a2b-7e626cc15bbc,3895182,59,Jonas Hofmann,8804.0,Right Foot,Blocked,0.056596298,,Bayer Leverkusen,904
+dfc23d71-49a7-40a0-bd2c-44840b3dc103,3895182,68,Victor Okoh Boniface,32289.0,Right Foot,Goal,0.34414628,,Bayer Leverkusen,904
+5665403a-4a89-4064-bf8b-01f7d557f2f1,3895182,75,Adam Hložek,28239.0,Right Foot,Off T,0.09609863,,Bayer Leverkusen,904
+1b0d2684-0805-4204-834f-ea37500599db,3895182,81,Adam Hložek,28239.0,Head,Wayward,0.35560703,,Bayer Leverkusen,904
+88776c4f-596f-4ee0-83fd-097d0e4f83ce,3895182,81,Edmond Fayçal Tapsoba,30606.0,Left Foot,Saved,0.12813282,,Bayer Leverkusen,904
+e682b085-e238-4da1-a569-8c90c6efe737,3895182,91,Gustavo Adolfo Puerta Molano,261630.0,Right Foot,Off T,0.05486425,,Bayer Leverkusen,904
+1d7886a0-13a5-4e91-a13a-3b35a5ce6c8f,3895182,92,Patrick Osterhage,133208.0,Left Foot,Blocked,0.057716127,,Bochum,868
+d759adec-4c7c-468f-815f-08067d531ca2,3895182,93,Jeremie Frimpong,32712.0,Right Foot,Saved,0.10220095,,Bayer Leverkusen,904
+5b582d4e-54c6-40be-8804-0a24cb1faa11,3895167,2,Chris Führich,23614.0,Right Foot,Saved,0.032454915,,VfB Stuttgart,174
+3152842e-19b5-4c09-9e3e-b4abe1c2e494,3895167,6,Serhou Guirassy,9102.0,Right Foot,Saved,0.025981644,,VfB Stuttgart,174
+45ad53f8-9f3a-4fb2-a3b7-b0bd82073659,3895167,6,Deniz Undav,131243.0,Left Foot,Blocked,0.17756435,,VfB Stuttgart,174
+a081171e-47b2-4abe-a5e1-3bbc1791ef87,3895167,6,Josha Mamadou Karaboue Vagnoman,10012.0,Right Foot,Blocked,0.26228788,,VfB Stuttgart,174
+722bae71-7fd8-4829-b3a5-d95b815fd38f,3895167,6,Dan-Axel Zagadou,8226.0,Head,Wayward,0.07588608,,VfB Stuttgart,174
+81d025d7-5884-47ad-95da-737b7b0c0f95,3895167,8,Amine Adli,33401.0,Left Foot,Post,0.06469139,,Bayer Leverkusen,904
+f29a745b-baab-44f3-b110-b112692bb6e5,3895167,13,Deniz Undav,131243.0,Right Foot,Wayward,0.048113093,,VfB Stuttgart,174
+72b014b3-5f2f-44d9-9c66-ba647f133887,3895167,14,Serhou Guirassy,9102.0,Right Foot,Blocked,0.03757173,,VfB Stuttgart,174
+1809b815-e915-499d-8d20-ca83ed7b5bcb,3895167,16,Deniz Undav,131243.0,Left Foot,Saved,0.0976612,,VfB Stuttgart,174
+c3e2a3f3-3edc-4332-b0a9-1cbbfae07952,3895167,18,Deniz Undav,131243.0,Right Foot,Saved,0.0033075176,,VfB Stuttgart,174
+f57f63cd-7c41-4327-a0fb-0e38f49cae30,3895167,23,Victor Okoh Boniface,32289.0,Right Foot,Saved,0.17982207,,Bayer Leverkusen,904
+26a88c53-f0b4-419f-90c2-43f7a6531f70,3895167,24,Serhou Guirassy,9102.0,Right Foot,Saved,0.37329158,,VfB Stuttgart,174
+7a4bcf05-3328-4e91-a300-86d88d84b710,3895167,24,Chris Führich,23614.0,Right Foot,Saved,0.09265975,,VfB Stuttgart,174
+f7cbb648-eec1-4b9e-922f-5752f563f019,3895167,25,Jeremie Frimpong,32712.0,Right Foot,Blocked,0.026345698,,Bayer Leverkusen,904
+6cde5e2b-e4d2-4b5c-84d6-2099a21ddfc6,3895167,26,Jonathan Tah,8221.0,Head,Off T,0.033756446,,Bayer Leverkusen,904
+06d84163-d171-4a72-a325-e5cd4355dd27,3895167,28,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.03831531,,Bayer Leverkusen,904
+a4edc69f-f0f7-430c-a367-51a72a525730,3895167,29,Amine Adli,33401.0,Head,Off T,0.062382694,,Bayer Leverkusen,904
+a9dca599-1e3d-449c-a90f-748d24a0ec03,3895167,32,Victor Okoh Boniface,32289.0,Right Foot,Off T,0.0374117,,Bayer Leverkusen,904
+4f1dea41-77d1-4445-9586-218cbe3a5868,3895167,34,Florian Wirtz,40724.0,Right Foot,Blocked,0.12123736,,Bayer Leverkusen,904
+d9a271a0-662b-4272-9d2c-129cd3eaeeec,3895167,35,Maximilian Mittelstädt,12407.0,Left Foot,Off T,0.023887914,,VfB Stuttgart,174
+85ee340f-2f3f-4516-8faf-474287618880,3895167,36,Deniz Undav,131243.0,Right Foot,Saved,0.031200977,,VfB Stuttgart,174
+b3368dd3-370f-42a3-af5a-17f24a589f30,3895167,39,Chris Führich,23614.0,Right Foot,Goal,0.7863085,,VfB Stuttgart,174
+e14554e6-277f-4ae6-9ca9-5903b614f3bd,3895167,41,Atakan Karazor,20947.0,Right Foot,Blocked,0.031105785,,VfB Stuttgart,174
+5e92c781-19fb-40a8-b205-a8a95ea35e1a,3895167,44,Deniz Undav,131243.0,Head,Saved,0.0889399,,VfB Stuttgart,174
+b8a3414d-ba72-4f88-a73c-c20739a0e6ae,3895167,47,Deniz Undav,131243.0,Right Foot,Blocked,0.04863447,,VfB Stuttgart,174
+532cb314-16a7-4255-a7ad-78c7b72d5836,3895167,48,Chris Führich,23614.0,Right Foot,Off T,0.030403445,,VfB Stuttgart,174
+0dc1e36d-6ea9-4030-aea5-71aaef3d7162,3895167,46,Florian Wirtz,40724.0,Right Foot,Goal,0.44466448,,Bayer Leverkusen,904
+e36045f1-0693-4d2c-9875-8cef880e2844,3895167,48,Granit Xhaka,3500.0,Left Foot,Post,0.04765752,,Bayer Leverkusen,904
+85e565bb-80fc-4a56-b3b1-b8ea24a6d904,3895167,52,Victor Okoh Boniface,32289.0,Head,Saved,0.093883015,,Bayer Leverkusen,904
+a861f4a3-b93a-43aa-93e2-54de347bd750,3895167,54,Alejandro Grimaldo García,10336.0,Left Foot,Saved Off Target,0.07776846,,Bayer Leverkusen,904
+50bdd9f9-6b0c-4b52-a778-db70e1328ee9,3895167,56,Waldemar Anton,8538.0,Right Foot,Off T,0.01512756,,VfB Stuttgart,174
+23427aaa-0911-45a8-8b0a-15e835616257,3895167,60,Victor Okoh Boniface,32289.0,Right Foot,Blocked,0.051992577,,Bayer Leverkusen,904
+8e4846a9-c97e-42b7-b219-023fec7d93d2,3895167,60,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.021429176,,Bayer Leverkusen,904
+a7ad960f-8315-4c72-9d2d-779170c0f634,3895167,69,Deniz Undav,131243.0,Left Foot,Saved Off Target,0.054769196,,VfB Stuttgart,174
+9da39a45-ab5c-4835-969e-e2f9fcf5678b,3895167,72,Jeremie Frimpong,32712.0,Left Foot,Saved,0.044807762,,Bayer Leverkusen,904
+c5db63d6-98ed-4e25-92eb-aa69a7d29f7e,3895167,80,Angelo Stiller,39360.0,Left Foot,Saved,0.040256012,,VfB Stuttgart,174
+6027b96c-f6af-4db5-a43f-374ef60d6c2e,3895167,87,Jonathan Tah,8221.0,Right Foot,Off T,0.06837945,,Bayer Leverkusen,904
+970bb83f-ebe2-48ac-9d61-75afcb2026a5,3895167,88,Patrik Schick,7044.0,Head,Blocked,0.043944217,,Bayer Leverkusen,904
+fb3e4261-26e0-45e3-8f54-a7ce7661e65e,3895167,89,Jonathan Tah,8221.0,Head,Saved,0.05857957,,Bayer Leverkusen,904
+94871c14-b01b-49ef-aee6-d51ba46fd0a7,3895167,92,Silas Katompa Mvumpa,13329.0,Left Foot,Off T,0.026126096,,VfB Stuttgart,174
+e7cb1597-fdbd-4607-a3ce-70d0a1bf097d,3895167,93,Jonas Hofmann,8804.0,Left Foot,Off T,0.015310748,,Bayer Leverkusen,904
+f0709dc9-9de8-41c3-a3ed-8c0e6e492ccc,3895158,4,Julian Ryerson,12387.0,Left Foot,Goal,0.37884635,,Borussia Dortmund,180
+dda91cf4-6be6-4337-8263-92989e8e09a3,3895158,6,Exequiel Alejandro Palacios,28268.0,Left Foot,Saved,0.05545624,,Bayer Leverkusen,904
+e3498422-e3ce-4ac5-99fc-30aa04d876b4,3895158,13,Granit Xhaka,3500.0,Left Foot,Saved,0.021554975,,Bayer Leverkusen,904
+d36d28d3-be36-46b1-bf09-9d3e8b20f3ee,3895158,18,Jonas Hofmann,8804.0,Right Foot,Off T,0.03811005,,Bayer Leverkusen,904
+df5eca50-7090-494a-8484-64ea250c5cb4,3895158,20,Granit Xhaka,3500.0,Left Foot,Off T,0.022244284,,Bayer Leverkusen,904
+897fce1e-00c2-4316-bf86-2ca40d78213e,3895158,25,Jonathan Tah,8221.0,Right Foot,Wayward,0.11983944,,Bayer Leverkusen,904
+0b35e797-16d2-42bf-a71d-1c5c82158ccd,3895158,30,Alejandro Grimaldo García,10336.0,Left Foot,Saved,0.053796235,,Bayer Leverkusen,904
+6f32462d-2d1b-43f1-850c-95aeff27ab93,3895158,35,Jamie Jermaine Bynoe-Gittens,161995.0,Right Foot,Blocked,0.068964936,,Borussia Dortmund,180
+e8be723d-1aba-48b9-89e9-9d2531913ae7,3895158,37,Victor Okoh Boniface,32289.0,Head,Off T,0.063403934,,Bayer Leverkusen,904
+0823daad-6e31-4eb1-a94b-8b054ac6128e,3895158,42,Exequiel Alejandro Palacios,28268.0,Right Foot,Off T,0.030914899,,Bayer Leverkusen,904
+2860fc95-0c6b-42b9-ad7e-053c421c3068,3895158,48,Granit Xhaka,3500.0,Left Foot,Off T,0.08714992,,Bayer Leverkusen,904
+9bd250c7-8d70-4fb5-bb4e-bb63d84cb7ad,3895158,46,Granit Xhaka,3500.0,Left Foot,Blocked,0.018029742,,Bayer Leverkusen,904
+f05b6edb-4ca7-4cfa-842e-77754f338b1c,3895158,47,Jeremie Frimpong,32712.0,Right Foot,Blocked,0.03686006,,Bayer Leverkusen,904
+d34bf01b-114a-4cc1-aa40-aef5fe60a392,3895158,47,Jeremie Frimpong,32712.0,Right Foot,Wayward,0.03995831,,Bayer Leverkusen,904
+fd3d4479-66f2-4a04-adb0-a9591a33cb5e,3895158,49,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.018200042,,Bayer Leverkusen,904
+ebda04cb-5e23-4854-9ea3-067adf0beefb,3895158,51,Odilon Kossonou,27133.0,Right Foot,Wayward,0.104334064,,Bayer Leverkusen,904
+9946d676-624e-4324-bb07-8beedb4efb5f,3895158,53,Julian Brandt,5555.0,Right Foot,Blocked,0.057089705,,Borussia Dortmund,180
+e9af1da7-b7a7-49d9-8efa-27cd0be84aa8,3895158,53,Julian Brandt,5555.0,Right Foot,Saved,0.0077010966,,Borussia Dortmund,180
+e8b4d9d9-3036-4861-bee0-dc695f90af8f,3895158,60,Jonas Hofmann,8804.0,Right Foot,Blocked,0.028571086,,Bayer Leverkusen,904
+214271bb-9b31-4985-8979-4746e5dee9fd,3895158,61,Exequiel Alejandro Palacios,28268.0,Right Foot,Blocked,0.11298785,,Bayer Leverkusen,904
+a8067e13-b1ae-42cf-88a7-ad5f781aaaf3,3895158,61,Florian Wirtz,40724.0,Left Foot,Saved,0.029681489,,Bayer Leverkusen,904
+b9024265-7499-4cb0-9e3f-2ba196c09be1,3895158,62,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.020517882,,Bayer Leverkusen,904
+af03f0aa-6b13-49e6-9e02-8ca9a0498761,3895158,67,Niclas Füllkrug,8546.0,Left Foot,Off T,0.05908229,,Borussia Dortmund,180
+9b5d1c04-bf74-497b-a0da-799bea662d57,3895158,72,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.029913954,,Bayer Leverkusen,904
+78722261-ff71-4e47-82e7-70f3ff152946,3895158,72,Granit Xhaka,3500.0,Left Foot,Off T,0.08205067,,Bayer Leverkusen,904
+6a8e26a0-c5c2-4c5c-912c-2d314f9b5a39,3895158,77,Florian Wirtz,40724.0,Right Foot,Off T,0.041199785,,Bayer Leverkusen,904
+41215e06-a33a-448a-ae67-0526fd1c0848,3895158,78,Victor Okoh Boniface,32289.0,Right Foot,Goal,0.94032604,,Bayer Leverkusen,904
+3b9bfdf9-d062-4ed6-a6fd-40eec7c0899d,3895158,86,Victor Okoh Boniface,32289.0,Left Foot,Saved,0.08122539,,Bayer Leverkusen,904
+f16d7b24-5b85-4e48-af7a-94c8c6b19934,3895158,87,Patrik Schick,7044.0,Head,Off T,0.06840045,,Bayer Leverkusen,904
+3ab99542-4a00-4625-a7f7-7f6e4a019985,3895158,94,Niclas Füllkrug,8546.0,Head,Off T,0.23604602,,Borussia Dortmund,180
+f3a5dcb2-514c-43ee-bb5d-ddaceed64808,3895153,10,Granit Xhaka,3500.0,Left Foot,Blocked,0.05523184,,Bayer Leverkusen,904
+c0ffe323-fd27-4ae3-9adb-2cecfa487eca,3895153,16,Victor Okoh Boniface,32289.0,Right Foot,Blocked,0.27685362,,Bayer Leverkusen,904
+b3632fea-207b-41be-b62a-9d4f32fb05ea,3895153,20,Granit Xhaka,3500.0,Left Foot,Off T,0.018820362,,Bayer Leverkusen,904
+94453dd6-d020-4536-8b77-96ff4b003b4e,3895153,27,Rafael Santos Borré Amaury,28266.0,Head,Saved,0.057764426,,Werder Bremen,176
+3043863b-a979-4347-811c-eaee227cc2df,3895153,30,Jeremie Frimpong,32712.0,Right Foot,Off T,0.042072985,,Bayer Leverkusen,904
+f229c20b-f5e8-41f6-9162-6d72055acad0,3895153,36,Piero Martín Hincapié Reyna,38004.0,Head,Wayward,0.08324678,,Bayer Leverkusen,904
+658c81ac-b0b2-42f3-80b7-333f1e47fd17,3895153,42,Jeremie Frimpong,32712.0,Right Foot,Goal,0.15434064,,Bayer Leverkusen,904
+4006cc6d-1c54-41d2-8ae9-e5c0b030a318,3895153,48,Alejandro Grimaldo García,10336.0,Left Foot,Wayward,0.035866685,,Bayer Leverkusen,904
+37f1ef70-3ccc-4b47-83e6-97a1b96968e4,3895153,55,Victor Okoh Boniface,32289.0,Right Foot,Off T,0.109911814,,Bayer Leverkusen,904
+1b88ef62-a526-4845-95e9-69eca2a98021,3895153,68,Victor Okoh Boniface,32289.0,Left Foot,Blocked,0.05372837,,Bayer Leverkusen,904
+070d6d04-646d-465d-a6d0-a9dcedf441d8,3895153,75,Alejandro Grimaldo García,10336.0,Left Foot,Goal,0.051634267,,Bayer Leverkusen,904
+ca5084f2-ddff-45ed-b303-378debb46f7a,3895153,81,Jonas Hofmann,8804.0,Right Foot,Blocked,0.05139328,,Bayer Leverkusen,904
+b2f3ce14-ff55-4e4e-8376-7670c3a34cf4,3895153,83,Justin Gideon Njinmah,185015.0,Right Foot,Post,0.12818192,,Werder Bremen,176
+8980e9c6-877c-4163-b549-9ee6f4a39677,3895153,86,Adam Hložek,28239.0,Right Foot,Saved,0.03164785,,Bayer Leverkusen,904
+8b5960c9-32a2-44ad-a08f-b1c37e2aa365,3895153,86,Jonas Hofmann,8804.0,Right Foot,Saved,0.04950974,,Bayer Leverkusen,904
+5574850e-2480-4ccf-891e-d112e848ded4,3895153,91,Nadiem Amiri,8403.0,Right Foot,Blocked,0.07680104,,Bayer Leverkusen,904
+533800e7-a633-4c16-989e-88d349c01143,3895113,0,Maximilian Arnold,8235.0,Left Foot,Off T,0.00993443,,Wolfsburg,179
+ceb3caa1-56d5-4fed-a5f7-845b5dfabc79,3895113,8,Jonathan Tah,8221.0,Head,Saved,0.030106671,,Bayer Leverkusen,904
+a26dc878-b726-4fa6-8401-45b5b3a5b145,3895113,12,Jeremie Frimpong,32712.0,Right Foot,Goal,0.40232337,,Bayer Leverkusen,904
+167af3d4-c5a7-47a2-b812-972dc4f252fd,3895113,14,Tiago Barreiros de Melo Tomás,41783.0,Right Foot,Saved,0.19173636,,Wolfsburg,179
+5439b967-e70f-45b4-a574-f0202192a9c9,3895113,14,Tiago Barreiros de Melo Tomás,41783.0,Right Foot,Wayward,0.021464085,,Wolfsburg,179
+f76c8707-ed5b-47aa-ac7a-1bc4be5eb819,3895113,14,Mattias Svanberg,15879.0,Right Foot,Saved,0.007823413,,Wolfsburg,179
+433ce77c-fe66-49df-ab81-d3598eedb1a5,3895113,16,Ridle Bote Baku,12630.0,Right Foot,Off T,0.029662412,,Wolfsburg,179
+e773b1a9-8875-41ef-8799-2404acba0bb0,3895113,26,Amine Adli,33401.0,Right Foot,Saved,0.04211412,,Bayer Leverkusen,904
+f4c7c89d-26a5-4b3e-9a59-b97c17301343,3895113,30,Victor Okoh Boniface,32289.0,Right Foot,Off T,0.04637706,,Bayer Leverkusen,904
+0c9e9637-cd37-410b-8fe1-79630efa4054,3895113,37,Jonas Older Wind,21261.0,Right Foot,Saved,0.011923322,,Wolfsburg,179
+f4e2d940-5648-4973-a1f3-c40d7ebd3798,3895113,37,Yannick Gerhardt,8231.0,Left Foot,Blocked,0.03621631,,Wolfsburg,179
+49f34d89-b7bd-4d48-9902-3262699399e5,3895113,38,Jonas Older Wind,21261.0,Right Foot,Blocked,0.06561052,,Wolfsburg,179
+6f6b3078-c977-4a64-bb79-2a2ea4b0488f,3895113,40,Mattias Svanberg,15879.0,Left Foot,Wayward,0.034556426,,Wolfsburg,179
+14c3ddfa-5f3b-4d84-b7bf-8eda949fdd99,3895113,40,Maxence Lacroix,22314.0,Right Foot,Goal,0.24649659,,Wolfsburg,179
+c6fe0c0f-32f4-4c9c-8b95-ec654099dc48,3895113,43,Jeremie Frimpong,32712.0,Right Foot,Off T,0.084550664,,Bayer Leverkusen,904
+0baf322c-a71b-4790-b088-5d881ba3f2c1,3895113,51,Jonas Older Wind,21261.0,Right Foot,Off T,0.028640669,,Wolfsburg,179
+db3d42f2-0415-41c9-b6c5-db9181ba6181,3895113,52,Victor Okoh Boniface,32289.0,Left Foot,Saved,0.19148658,,Bayer Leverkusen,904
+2e994f6e-3670-424c-b287-a22c2e36c490,3895113,60,Victor Okoh Boniface,32289.0,Left Foot,Off T,0.13167426,,Bayer Leverkusen,904
+510a9df3-c49b-4eee-b8f9-0effd90ccb23,3895113,61,Alejandro Grimaldo García,10336.0,Left Foot,Goal,0.12249167,,Bayer Leverkusen,904
+e5d1dc6c-7601-428e-a9c6-98eb1aeb794b,3895113,64,Yannick Gerhardt,8231.0,Head,Blocked,0.04161831,,Wolfsburg,179
+71c0e30b-f325-4af5-ac2d-2ba7c7405be2,3895113,66,Victor Okoh Boniface,32289.0,Right Foot,Saved,0.32977146,,Bayer Leverkusen,904
+9fa8e681-040a-4283-87ec-a044323637a3,3895113,67,Mattias Svanberg,15879.0,Right Foot,Off T,0.05850143,,Wolfsburg,179
+9cce3988-35c0-45ef-ba65-2ff852e2f474,3895113,69,Florian Wirtz,40724.0,Right Foot,Off T,0.050510947,,Bayer Leverkusen,904
+eb799f2a-b81f-4bc6-9222-c619a4a69a45,3895113,72,Lovro Majer,28914.0,Left Foot,Off T,0.028854862,,Wolfsburg,179
+fccefdfb-ff58-4f33-8824-7b0c8ca1ec3f,3895113,76,Jeremie Frimpong,32712.0,Right Foot,Saved,0.4450903,,Bayer Leverkusen,904
+8b5eef3f-9872-4b71-b75d-98ed4d322bed,3895113,77,Edmond Fayçal Tapsoba,30606.0,Left Foot,Wayward,0.033928115,,Bayer Leverkusen,904
+91b87b1a-146d-469c-b7b5-71510cd222fc,3895113,80,Kevin Paredes,38009.0,Left Foot,Saved,0.065609656,,Wolfsburg,179
+f55b759a-eb35-4631-acee-7dbc02ad2ba6,3895113,82,Kevin Paredes,38009.0,Left Foot,Off T,0.026791453,,Wolfsburg,179
+7234011a-02b8-43c5-b25a-4c3d7e0d6d44,3895113,86,Florian Wirtz,40724.0,Right Foot,Off T,0.0522467,,Bayer Leverkusen,904
+6c5f1db1-539d-4528-a209-a147caae2ab3,3895113,92,Jonas Older Wind,21261.0,Left Foot,Saved,0.09892501,,Wolfsburg,179
+b7450628-a7c1-42b1-8d72-d619d4c0b299,3895113,92,Jonas Older Wind,21261.0,Right Foot,Saved,0.19398408,,Wolfsburg,179
+9aa277b0-c06e-4c8f-871f-fc858ede75a1,3895095,4,Edimilson Fernandes,3913.0,Right Foot,Off T,0.011072776,,FSV Mainz 05,177
+eb3bdb0f-c8c1-472c-9297-4f624735f22d,3895095,9,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.046349965,,Bayer Leverkusen,904
+be463c23-1422-4689-b9da-0b83566aead0,3895095,24,Karim Onisiwo,11278.0,Head,Saved,0.04084554,,FSV Mainz 05,177
+eb276376-b5d3-42f5-bbb0-c805ed8ed584,3895095,29,Brajan Gruda,363583.0,Left Foot,Saved,0.02572198,,FSV Mainz 05,177
+2360e583-e2bd-43c6-8dd7-1931d9d69889,3895095,30,Dominik Kohr,8207.0,Left Foot,Blocked,0.038837012,,FSV Mainz 05,177
+a54fe41f-f340-4027-a3a2-7ac6e6515790,3895095,33,Stefan Bell,8559.0,Left Foot,Off T,0.054707997,,FSV Mainz 05,177
+c463f20e-0104-4fe5-878d-804fb2b07269,3895095,52,Karim Onisiwo,11278.0,Right Foot,Blocked,0.010392251,,FSV Mainz 05,177
+a7ea7006-c6d8-4f4c-863e-4bba9c35aa59,3895095,53,Karim Onisiwo,11278.0,Head,Saved,0.112592064,,FSV Mainz 05,177
+3a26ee43-c3f1-42d7-a8f6-bfd82f695910,3895095,58,Alejandro Grimaldo García,10336.0,Left Foot,Goal,0.08269043,,Bayer Leverkusen,904
+12a24a9b-3c9c-45d4-989f-066a49816a44,3895095,64,Jonas Hofmann,8804.0,Right Foot,Goal,0.12421208,,Bayer Leverkusen,904
+64789666-5896-4fef-96c1-25018916f804,3895095,74,Victor Okoh Boniface,32289.0,Right Foot,Saved,0.48862752,,Bayer Leverkusen,904
+f9d5d928-b1d2-436b-b09e-f98fbd69e105,3895095,80,Anwar El Ghazi,4381.0,Right Foot,Off T,0.041664448,,FSV Mainz 05,177
+10f63087-5831-410e-a3c9-a60731e95771,3895095,81,Tom Krauß,38917.0,Right Foot,Off T,0.045486383,,FSV Mainz 05,177
+3e1e5d46-8260-4331-9308-549ab6acc3fb,3895095,82,Amine Adli,33401.0,Right Foot,Blocked,0.04024042,,Bayer Leverkusen,904
+29219c51-1ff4-4fb0-958e-dfb370dcdd43,3895095,82,Jonas Hofmann,8804.0,Right Foot,Off T,0.01154443,,Bayer Leverkusen,904
+9ac5d42a-afa5-4d49-bcdb-505964a26de7,3895095,87,Aymen Barkok,11818.0,Right Foot,Blocked,0.053944573,,FSV Mainz 05,177
+ddadd240-6377-490e-a404-b37b67a30fd4,3895067,1,Alejandro Grimaldo García,10336.0,Head,Blocked,0.024206681,,Bayer Leverkusen,904
+d2e0289b-8116-4401-a890-c839d2722444,3895067,8,Edmond Fayçal Tapsoba,30606.0,Right Foot,Wayward,0.07206045,,Bayer Leverkusen,904
+629fe580-fc41-4b9e-80f0-677b5028e3b9,3895067,13,Oscar Vilhelmsson,42543.0,Left Foot,Blocked,0.030667925,,Darmstadt 98,872
+a30d89a2-2b69-4712-932b-e215bcbca259,3895067,15,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.17397805,,Bayer Leverkusen,904
+c9e956a8-01d9-457c-b769-8edb6a175cf2,3895067,18,Florian Wirtz,40724.0,Left Foot,Blocked,0.0518035,,Bayer Leverkusen,904
+89cac510-30de-4a23-9d36-f4d8e64ec46d,3895067,18,Jeremie Frimpong,32712.0,Left Foot,Saved,0.050490666,,Bayer Leverkusen,904
+20023049-6d76-4414-9904-1d58279dcfbb,3895067,19,Oscar Vilhelmsson,42543.0,Right Foot,Blocked,0.07441936,,Darmstadt 98,872
+ff742b91-ad13-4bb6-a6ac-9039843f3d2e,3895067,20,Victor Okoh Boniface,32289.0,Right Foot,Goal,0.2702139,,Bayer Leverkusen,904
+3077e00e-9ccd-47b0-a789-042e69afd3e6,3895067,23,Oscar Vilhelmsson,42543.0,Head,Goal,0.4378536,,Darmstadt 98,872
+3e79b7f1-d85d-478c-adf5-e15f0217a044,3895067,31,Victor Okoh Boniface,32289.0,Left Foot,Blocked,0.14783305,,Bayer Leverkusen,904
+12c85765-6939-456e-b849-14c86c9a026f,3895067,31,Victor Okoh Boniface,32289.0,Right Foot,Blocked,0.050477833,,Bayer Leverkusen,904
+6a95128e-5f15-4ffe-ad0b-158a7d78a336,3895067,32,Jeremie Frimpong,32712.0,Right Foot,Off T,0.11959914,,Bayer Leverkusen,904
+da8142d4-8b0f-4160-be3a-ab943784b41c,3895067,33,Granit Xhaka,3500.0,Right Foot,Saved,0.04052658,,Bayer Leverkusen,904
+bfba8be0-806c-4697-9286-d6fa2bb0e9f5,3895067,36,Jonas Hofmann,8804.0,Right Foot,Saved,0.043045048,,Bayer Leverkusen,904
+5db47ee0-323d-4899-b47b-547ba70d5abc,3895067,41,Alejandro Grimaldo García,10336.0,Left Foot,Blocked,0.096232794,,Bayer Leverkusen,904
+3ad75026-2a0f-4f17-9a68-1b9a086fad6a,3895067,42,Florian Wirtz,40724.0,Right Foot,Saved,0.03877827,,Bayer Leverkusen,904
+b5ae6424-68a1-45ee-970c-09bb0da70d2d,3895067,45,Jonas Hofmann,8804.0,Right Foot,Saved,0.060544346,,Bayer Leverkusen,904
+22ebd8d3-f37d-4bd2-9e80-80aeb566227f,3895067,48,Exequiel Alejandro Palacios,28268.0,Right Foot,Goal,0.06972993,,Bayer Leverkusen,904
+9b788df9-0f59-4bef-95f6-f6062b70dabd,3895067,58,Tim Skarke,9209.0,Right Foot,Blocked,0.022333987,,Darmstadt 98,872
+69c1e706-38c3-4454-8973-190be89d3db6,3895067,60,Victor Okoh Boniface,32289.0,Left Foot,Goal,0.40243378,,Bayer Leverkusen,904
+db5479ef-0a0d-4c34-a06a-bce5104675b7,3895067,63,Victor Okoh Boniface,32289.0,Left Foot,Off T,0.085164204,,Bayer Leverkusen,904
+9646980b-5716-4da5-a785-a352a3d408e3,3895067,66,Jonas Hofmann,8804.0,Right Foot,Goal,0.056515876,,Bayer Leverkusen,904
+3cee8863-208b-4422-8c54-f688fbf98b8e,3895067,71,Victor Okoh Boniface,32289.0,Head,Off T,0.07369121,,Bayer Leverkusen,904
+0f8c8e57-3769-408b-a168-1ccb683d4d6f,3895067,73,Alejandro Grimaldo García,10336.0,Left Foot,Saved,0.009121279,,Bayer Leverkusen,904
+a9312187-4a3f-42dc-a5c2-160efbf8020d,3895067,76,Tim Skarke,9209.0,Left Foot,Blocked,0.013927576,,Darmstadt 98,872
+a8928e40-d501-44cb-b327-3a75044baed9,3895067,81,Noah Mbamba,114833.0,Right Foot,Blocked,0.04667749,,Bayer Leverkusen,904
+55836a80-19f4-4481-b513-1c21e6b1919b,3895067,82,Adam Hložek,28239.0,Left Foot,Goal,0.58532554,,Bayer Leverkusen,904
+2cd6697c-aa9b-4978-a76e-26aef2112c31,3895067,90,Victor Okoh Boniface,32289.0,Right Foot,Saved,0.06030186,,Bayer Leverkusen,904
+8f5f8f90-bbbe-4f4f-bbbe-11a2d64d342d,3895067,90,Nathan Tella,41411.0,Left Foot,Saved,0.26440224,,Bayer Leverkusen,904
+1ca8d41b-9d7e-4ce1-81c1-8faa57b3d828,3895067,90,Jonas Hofmann,8804.0,Right Foot,Off T,0.41148746,,Bayer Leverkusen,904
+a9aeffde-608f-479a-8195-c6cff7363b53,3895060,8,Victor Okoh Boniface,32289.0,Right Foot,Blocked,0.11212661,,Bayer Leverkusen,904
+25b25579-2f18-4333-a5a6-8571e4212871,3895060,17,Victor Okoh Boniface,32289.0,Head,Goal,0.21289383,,Bayer Leverkusen,904
+3a370e4d-7507-4970-bd41-0f85c483b328,3895060,24,Jonas Hofmann,8804.0,Left Foot,Blocked,0.08163955,,Bayer Leverkusen,904
+f5063b91-350a-4ff2-ad05-f8a133cf6c69,3895060,27,Marvin Friedrich,9174.0,Right Foot,Off T,0.065554254,,Borussia Mönchengladbach,185
+bc158e00-f1d4-4c64-be24-9cedf6e19e50,3895060,28,Exequiel Alejandro Palacios,28268.0,Right Foot,Off T,0.01716496,,Bayer Leverkusen,904
+cc2b7576-f295-4b8e-ab4c-cd5f437aa3d4,3895060,29,Alejandro Grimaldo García,10336.0,Left Foot,Off T,0.10086409,,Bayer Leverkusen,904
+52adeea9-da77-4a26-91ce-a6802ca8d9a4,3895060,30,Jeremie Frimpong,32712.0,Right Foot,Saved,0.03741663,,Bayer Leverkusen,904
+8fd7eb39-3e99-4ca3-a26c-53cf0a9dc310,3895060,32,Florian Wirtz,40724.0,Right Foot,Saved,0.03490053,,Bayer Leverkusen,904
+036aab1b-c275-4d03-b0b7-07b80094acef,3895060,34,Victor Okoh Boniface,32289.0,Right Foot,Blocked,0.065433435,,Bayer Leverkusen,904
+7637a832-f82c-4708-b296-1701481e05ac,3895060,35,Victor Okoh Boniface,32289.0,Right Foot,Blocked,0.03576193,,Bayer Leverkusen,904
+79a23925-3852-4f56-964f-f92661681722,3895060,38,Victor Okoh Boniface,32289.0,Left Foot,Off T,0.052070636,,Bayer Leverkusen,904
+1139940d-789e-461e-983e-036dddae7e81,3895060,40,Granit Xhaka,3500.0,Left Foot,Blocked,0.044252444,,Bayer Leverkusen,904
+1e5f4718-98fb-402f-928b-8081a6d18541,3895060,40,Tomáš Čvančara,45567.0,Left Foot,Wayward,0.26135707,,Borussia Mönchengladbach,185
+55ead603-af88-4f99-89d1-11b1c3ae177b,3895060,42,Victor Okoh Boniface,32289.0,Left Foot,Wayward,0.20104417,,Bayer Leverkusen,904
+62817480-1c22-419f-a348-6a7aa4757f95,3895060,45,Victor Okoh Boniface,32289.0,Left Foot,Off T,0.0903727,,Bayer Leverkusen,904
+28fbde42-b785-47cc-847a-bd45e3d333fd,3895060,46,Jonas Hofmann,8804.0,Left Foot,Saved,0.12446163,,Bayer Leverkusen,904
+e2a50255-e1bf-48e0-98e4-d86d96fe15a1,3895060,46,Victor Okoh Boniface,32289.0,Left Foot,Saved,0.30162236,,Bayer Leverkusen,904
+22fddac8-50b0-441c-b551-e3456b0e15c1,3895060,50,Jonathan Tah,8221.0,Left Foot,Goal,0.16639715,,Bayer Leverkusen,904
+57fbe67b-e6a8-4544-baf9-6bb78cc0c262,3895060,49,Marvin Friedrich,9174.0,Right Foot,Off T,0.008870227,,Borussia Mönchengladbach,185
+5e51457b-5cbf-44c1-8248-d1e67bc5c48f,3895060,50,Tomáš Čvančara,45567.0,Left Foot,Off T,0.04831321,,Borussia Mönchengladbach,185
+7cd2a8e8-cdf3-4b5a-9c57-453f63dcccb8,3895060,51,Jonas Hofmann,8804.0,Left Foot,Blocked,0.21587738,,Bayer Leverkusen,904
+ffc61678-fba6-4df8-a412-83e555c9fca5,3895060,52,Victor Okoh Boniface,32289.0,Right Foot,Goal,0.23531614,,Bayer Leverkusen,904
+ee957b56-86df-4fa1-8bdd-9bc7feeebffa,3895060,55,Victor Okoh Boniface,32289.0,Right Foot,Off T,0.067177616,,Bayer Leverkusen,904
+05f6964d-1776-4c5c-996c-3447802324a3,3895060,55,Jonas Hofmann,8804.0,Right Foot,Saved,0.056350455,,Bayer Leverkusen,904
+3ac9442d-4761-434a-8409-bb118a57061a,3895060,56,Exequiel Alejandro Palacios,28268.0,Right Foot,Blocked,0.018898277,,Bayer Leverkusen,904
+3c1c463a-f423-41cb-b7d7-e888e4e4d0c8,3895060,57,Tomáš Čvančara,45567.0,Right Foot,Blocked,0.06228212,,Borussia Mönchengladbach,185
+e13f9cbb-6e6d-4dfd-979f-6785d936b1e4,3895060,60,Alassane Pléa,3230.0,Right Foot,Off T,0.023374189,,Borussia Mönchengladbach,185
+4266d7ee-8cc1-4812-88eb-824bb74af335,3895060,63,Marvin Friedrich,9174.0,Head,Off T,0.061928656,,Borussia Mönchengladbach,185
+ec5ced0a-9fad-48a4-be73-3682cd8b155b,3895060,67,Ko Itakura,29595.0,Head,Saved,0.092985675,,Borussia Mönchengladbach,185
+dae65c1e-81b2-46ba-bba7-a0ad1bf9bb45,3895060,69,Marvin Friedrich,9174.0,Left Foot,Off T,0.06676363,,Borussia Mönchengladbach,185
+472065ff-587c-4477-a070-5970ed2ebf65,3895060,73,Jonas Hofmann,8804.0,Right Foot,Saved,0.101688564,,Bayer Leverkusen,904
+b8cc94a9-e1ef-421a-81ca-3e867bc4cd5b,3895060,75,Franck Honorat,7198.0,Right Foot,Saved,0.070884824,,Borussia Mönchengladbach,185
+251eb8fc-dd8b-4b21-9db3-5f5c97499d07,3895060,83,Adam Hložek,28239.0,Right Foot,Saved,0.31652135,,Bayer Leverkusen,904
+c23eef91-e356-48a1-8464-78f95df1de9b,3895060,85,Joseph Scally,36830.0,Right Foot,Off T,0.0070148637,,Borussia Mönchengladbach,185
+f95aaf60-8e75-4bf5-a51f-b0626254f979,3895060,86,Victor Okoh Boniface,32289.0,Right Foot,Saved,0.029618237,,Bayer Leverkusen,904
+c3a2b5ae-be31-439f-b4a5-303d229287ac,3895060,91,Grant-Leon Ranos,343893.0,Left Foot,Blocked,0.029935844,,Borussia Mönchengladbach,185
+2fa0470b-b096-4e0f-8f7e-5c3bdc27abbd,3895052,1,Granit Xhaka,3500.0,Left Foot,Saved,0.020733545,,Bayer Leverkusen,904
+0a603bab-8f62-4b61-a69e-89540ece0633,3895052,7,Timo Werner,5557.0,Left Foot,Off T,0.042124372,,RB Leipzig,182
+3fd1b5d6-f4a7-405d-be71-58f35782e15c,3895052,7,Jonas Hofmann,8804.0,Left Foot,Off T,0.03869969,,Bayer Leverkusen,904
+bf565494-7169-456a-86fd-2b61f2002349,3895052,8,Ikoma Loïs Openda,16275.0,Right Foot,Blocked,0.021303006,,RB Leipzig,182
+86ce68ca-57a3-4495-8309-d66397796e67,3895052,9,Benjamin Henrichs,8211.0,Right Foot,Saved,0.04089652,,RB Leipzig,182
+29e2fbe9-f8d2-4dfe-8bc9-5af180dc647b,3895052,20,Ikoma Loïs Openda,16275.0,Head,Wayward,0.09094513,,RB Leipzig,182
+3b486f32-c998-4c87-b3fd-e28b4d059679,3895052,21,Benjamin Henrichs,8211.0,Right Foot,Saved,0.015781673,,RB Leipzig,182
+7d9b770d-fe1c-481a-a4dc-bf99d71705e6,3895052,23,Jeremie Frimpong,32712.0,Right Foot,Goal,0.49154305,,Bayer Leverkusen,904
+c4646c6d-3ed0-4c4e-bd24-98b8157fce90,3895052,33,Alejandro Grimaldo García,10336.0,Right Foot,Blocked,0.12706259,,Bayer Leverkusen,904
+64390818-5404-4d83-ab41-07af760ffa7d,3895052,34,Jonathan Tah,8221.0,Head,Goal,0.15772732,,Bayer Leverkusen,904
+4dbe152a-6aa2-46c1-93c2-d1cb3acab04d,3895052,36,Victor Okoh Boniface,32289.0,Head,Saved,0.13226183,,Bayer Leverkusen,904
+4996c65a-6dff-459f-80e1-8502d48d7198,3895052,38,Daniel Olmo Carvajal,16532.0,Head,Goal,0.092468806,,RB Leipzig,182
+5df16513-d372-4a46-9661-09c10341a40b,3895052,47,Florian Wirtz,40724.0,Left Foot,Saved,0.30528295,,Bayer Leverkusen,904
+747ba62c-cb02-44a8-a9a2-651f8fa0aadf,3895052,49,Benjamin Henrichs,8211.0,Right Foot,Blocked,0.04921368,,RB Leipzig,182
+c8521aea-0248-4c7c-9036-c103ff5e2416,3895052,56,Victor Okoh Boniface,32289.0,Right Foot,Off T,0.042780038,,Bayer Leverkusen,904
+f8cd5da5-6a20-41ad-8794-4397b76a11cf,3895052,63,Florian Wirtz,40724.0,Right Foot,Goal,0.14435048,,Bayer Leverkusen,904
+4d1ddb7f-dd55-48e3-8f4f-42f8b1af7e25,3895052,70,Ikoma Loïs Openda,16275.0,Head,Goal,0.46441185,,RB Leipzig,182
+459155f4-e208-475e-9ae8-118c5550a069,3895052,73,Ikoma Loïs Openda,16275.0,Right Foot,Post,0.5078586,,RB Leipzig,182
+fccc9f5c-5d5f-45df-bee7-1d796a9a1877,3895052,73,Xaver Schlager,8769.0,Left Foot,Blocked,0.021753032,,RB Leipzig,182
+f777190c-cc7f-4fa7-be33-8ed6ba2c7368,3895052,77,Yussuf Yurary Poulsen,5536.0,Head,Saved,0.068488866,,RB Leipzig,182
+45109121-17a9-407d-ba6c-f4e3664b8e62,3895052,85,Yussuf Yurary Poulsen,5536.0,Head,Saved,0.24559478,,RB Leipzig,182
+44378e53-55e4-4c39-ac5b-94ef6e4e7e8f,3895052,85,Benjamin Henrichs,8211.0,Head,Wayward,0.050967824,,RB Leipzig,182
+bcea08d2-3377-4014-a452-aec0bed0d80e,3895052,86,Victor Okoh Boniface,32289.0,Right Foot,Off T,0.038662,,Bayer Leverkusen,904
+72ad1499-5b51-483d-9f4c-2e340805649b,3895052,90,Benjamin Henrichs,8211.0,Right Foot,Blocked,0.010301929,,RB Leipzig,182
+370ef086-b3b1-4f8b-bc58-9de8a0dbca5d,3895052,95,Arthur Augusto de Matos Soares,196651.0,Right Foot,Saved,0.024260674,,Bayer Leverkusen,904
