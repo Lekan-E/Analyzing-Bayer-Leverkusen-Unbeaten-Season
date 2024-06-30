@@ -29,14 +29,14 @@ With this tactical setup, Xabi Alonso's Bayer Leverkusen excelled in creating hi
 ### Pass Network
 The team’s formation remained consistent throughout the season. An analysis of their pass network highlights the cohesiveness and stability of their play. 
 
-(https://github.com/Lekan-E/Analyzing-Bayer-Leverkusen-s-Unbeaten-Season/blob/b3555038e040d34bdf634b7cf5b51ca5a9bc3839/Images/Pass%20Network.png)
+![Alt Text](https://github.com/Lekan-E/Analyzing-Bayer-Leverkusen-s-Unbeaten-Season/blob/64a78be838e08b03fd5ba3ba09cd1800942619c8/Images/xG%20Lines.png)
 
 ### Player Involvement
 Scoring goals was not a problem for Bayer Leverkusen, with 16 different players finding the back of the net. Leading the charge was newly acquired Nigerian forward Victor Boniface. Boniface wasted no time making his mark, contributing 18 goals (10 goals, 8 assists) in his first 16 league games. 
 
-(https://github.com/Lekan-E/Analyzing-Bayer-Leverkusen-s-Unbeaten-Season/blob/b3555038e040d34bdf634b7cf5b51ca5a9bc3839/Images/Boni%20GC.png)
+![Alt Text](https://github.com/Lekan-E/Analyzing-Bayer-Leverkusen-s-Unbeaten-Season/blob/b3555038e040d34bdf634b7cf5b51ca5a9bc3839/Images/Boni%20GC.png)
 
 ### Pass Map
 Xhaka's tireless work rate and exceptional passing accuracy were crucial to Leverkusen's success. Achieving a remarkable 93% accuracy from 3,275 passes, he became an indispensable part of the squad. His ability to dictate play, recycle possession, and maintain the team's structure both defensively and offensively highlighted his importance in Xabi Alonso's system.
 
-(https://github.com/Lekan-E/Analyzing-Bayer-Leverkusen-s-Unbeaten-Season/blob/b3555038e040d34bdf634b7cf5b51ca5a9bc3839/Images/Xhaka%20Pass.png)
+![Alt Text](https://github.com/Lekan-E/Analyzing-Bayer-Leverkusen-s-Unbeaten-Season/blob/b3555038e040d34bdf634b7cf5b51ca5a9bc3839/Images/Xhaka%20Pass.png)
