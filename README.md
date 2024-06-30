@@ -24,12 +24,12 @@ Xabi Alonso’s Bayer Leverkusen frequently employed a 3-4-3 formation, one that
 ### xG Trendline
 With this tactical setup, Xabi Alonso's Bayer Leverkusen excelled in creating high-quality scoring opportunities. The 34-game expected goals (xG) trendline illustrates a significant xG difference, outplaying their opponents in 28 out of the 34 games. 
 
-![Alt Text](https://github.com/Lekan-E/Analyzing-Bayer-Leverkusen-s-Unbeaten-Season/blob/b3555038e040d34bdf634b7cf5b51ca5a9bc3839/Images/Avg%20Formation.png)
+![Alt Text](https://github.com/Lekan-E/Analyzing-Bayer-Leverkusen-s-Unbeaten-Season/blob/64a78be838e08b03fd5ba3ba09cd1800942619c8/Images/xG%20Lines.png)
 
 ### Pass Network
 The team’s formation remained consistent throughout the season. An analysis of their pass network highlights the cohesiveness and stability of their play. 
 
-![Alt Text](https://github.com/Lekan-E/Analyzing-Bayer-Leverkusen-s-Unbeaten-Season/blob/64a78be838e08b03fd5ba3ba09cd1800942619c8/Images/xG%20Lines.png)
+![Alt Text](https://github.com/Lekan-E/Analyzing-Bayer-Leverkusen-s-Unbeaten-Season/blob/26987a7ca2af996d960aea5719a645b7e42bc347/Images/Pass%20Network.png)
 
 ### Player Involvement
 Scoring goals was not a problem for Bayer Leverkusen, with 16 different players finding the back of the net. Leading the charge was newly acquired Nigerian forward Victor Boniface. Boniface wasted no time making his mark, contributing 18 goals (10 goals, 8 assists) in his first 16 league games. 
