@@ -1,7 +1,7 @@
-# Analyzing-Bayer-Leverkusen-s-Unbeaten-Season
-### An analysis of over 130,000 event data on Bayer Leverkusen invincible season using Statsbomb API in Python and Tableau. Check full article here.
+# Analyzing-Bayer-Leverkusen-Unbeaten-Season
+### An analysis of over 130,000 event data on Bayer Leverkusen's invincible season using Statsbomb API in Python and Tableau. Check full article here.
 
-This project was done using data collected by Statsbomb. After going an entire 34-game season unbeaten, I decided to obtain insights into how Bayer Leverkusen were able to achieve this. This process involved studying their formation, passing network, how well they shot the ball aginst each team using a goalmap and many more. 
+This project was done using data collected by Statsbomb. After going an entire 34-game season unbeaten, I decided to obtain insights into how Bayer Leverkusen were able to achieve this. This process involved studying their formation, passing network, how well they shot the ball against each team using a goal map and many more. 
 
 In the Jupyter Notebook, I will demonstrate how to prepare the data to build the following visualizations in Tableau:
 - Pass Map
@@ -12,12 +12,12 @@ In the Jupyter Notebook, I will demonstrate how to prepare the data to build the
 - Shotmap
 
 ### League Table
-The final league standings, showing team’s position during each game week. In the 2023/24 season, Leverkusen’s defensive solidity and attacking versatility were key to their success. They scored 87 goals, secured 28 wins, remained unbeaten in 17 away games, achieved 10 consecutive wins, and amassed 90 points to clinch the Meisterschale.
+The final league standings, show team’s position during each game week. In the 2023/24 season, Leverkusen’s defensive solidity and attacking versatility were key to their success. They scored 87 goals, secured 28 wins, remained unbeaten in 17 away games, achieved 10 consecutive wins, and amassed 90 points to clinch the Meisterschale.
 
 ![Alt Text](https://github.com/Lekan-E/Analyzing-Bayer-Leverkusen-s-Unbeaten-Season/blob/b3555038e040d34bdf634b7cf5b51ca5a9bc3839/Images/Bumpy%20Chart.jpg)
 
 ### Tactical Setup
-Xabi Alonso’s Bayer Leverkusen frequently employed a 3-4-3 formation, one that allows for midfield control, defensive solidity with flexibility. This setup provided better coverage of the central areas while the wing backs often dropped back to form five-man defense when out of possession. When attacking, the wingbacks were deployed higher up the pitch to provide width, stretch the opponent’s defense, create space for the forwards and deliver crosses into the box.
+Xabi Alonso’s Bayer Leverkusen frequently employed a 3-4-3 formation, one that allows for midfield control, and defensive solidity with flexibility. This setup provided better coverage of the central areas while the wing backs often dropped back to form five-man defense when out of possession. When attacking, the wingbacks were deployed higher up the pitch to provide width, stretch the opponent’s defence, create space for the forwards and deliver crosses into the box.
 
 ![Alt Text](https://github.com/Lekan-E/Analyzing-Bayer-Leverkusen-s-Unbeaten-Season/blob/b3555038e040d34bdf634b7cf5b51ca5a9bc3839/Images/Avg%20Formation.png)
 
