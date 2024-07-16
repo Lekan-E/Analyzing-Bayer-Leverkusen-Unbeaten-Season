@@ -3,6 +3,8 @@
 
 This project was done using data collected by Statsbomb. After going an entire 34-game season unbeaten, I decided to obtain insights into how Bayer Leverkusen were able to achieve this. This process involved studying their formation, passing network, how well they shot the ball aginst each team using a goalmap and many more. 
 
+Link to dashboard: https://public.tableau.com/views/BayerLeverkusen-Invincibles/DashboardLeagueTable?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 In the Jupyter Notebook, I will demonstrate how to prepare the data to build the following visualizations in Tableau:
 - Pass Map
 - Pass Network
